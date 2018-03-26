@@ -18,7 +18,7 @@ url: "http://shapemi.github.io"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@shapemi"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -51,14 +51,14 @@ heroButtons:
 # About Block
 aboutTitle: "About ShapeMI"
 aboutBlock:
- - {title: "Shape methods", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Shape applications", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Shape demos", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Shape methods", image: "conference.jpg", text: "BLABLA" }
+ - {title: "Shape applications", image: "workshop.jpg", text: "BLABLA" }
+ - {title: "Shape demos", image: "hackathon.jpg", text: "BLABLA" }
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Tell us about SHAPEMI2018 using "
+twitterHashTag: "shapemi2018"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 
@@ -77,7 +77,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:shapemi2018", text: "shapemi2018"}
  -
   title: "FAQ"
   links:
