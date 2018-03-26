@@ -40,9 +40,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ShapeMI 2018 is <typeout>"
+heroTitle: "ShapeMI 2018 is <typeout> "
 eventDate: "September xx, 2018"
-typeoutTextValues: '"", Shape demos", "Shape methods", "Shape Applications"'
+typeoutTextValues: '"", "Shape demos", "Shape methods", "Shape Applications", "Shape Community"'
 typeoutFallback: "Shape Community"
 heroButtons:
  - {link: "https://www.google.com", text: "Submit a paper"}
