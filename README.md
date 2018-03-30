@@ -1,5 +1,5 @@
-# slicersaltweb.github.io
-SlicerSALT website repository
+# ShapeMI.github.io
+ShapeMI website repository, initially cloned from slicersaltweb.github.io
 
 # Build
 
