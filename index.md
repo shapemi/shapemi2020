@@ -4,10 +4,22 @@ Today’s image data often represents continuous and time-varying phenomena, usu
 
 
 This workshop targets theoretical contributions as well as exciting applications in medical imaging, including (but not limited to):
+- Shape Processing and Analysis
+- Shape Learning and Classification
+- Geometric Learning and Manifold-based Methods
+- Statistics of Shapes and Deformations
+- Spectral Shape Analysis
+- Spectral Clustering and Dimensionality Reduction
+- Shape Modeling and Representation
+- Shape Segmentation, Registration and Correspondence
+- Longitudinal Shape Analysis and Processing
+- Medical Applications focused on Shape Analysis
+- Evaluation / quality assessment of shape models
+- Relevant demos of freely available shape analysis software 
+
 
 ### Organizers
-- Martin Reuter, German Center for Neurodegenerative Diseases, Bonn, 
-Germany &  Harvard Medical School, Boston, USA
+- Martin Reuter, German Center for Neurodegenerative Diseases, Bonn, Germany &  Harvard Medical School, Boston, USA
 - Christian Wachinger, Ludwig-Maximilian-University, Munich, Germany
 - Hervé Lombaert, ETS Montreal, Canada & Inria Sophia-Antipolis, France
 - Beatriz Paniagua, Kitware Inc. and University of North Carolina at Chapel Hill, USA
