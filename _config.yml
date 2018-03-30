@@ -1,0 +1,11 @@
+# Site settings
+title: SlicerSALT
+email: beatriz.paniagua@kitware.com
+description: > # this means to ignore newlines until "baseurl:"
+  Shape Analysis in 3D Slicer: open-source software for shape analysis studies
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username: Kitware/SlicerSALT
+
+# Build settings
+markdown: kramdown
