@@ -2,7 +2,9 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/" style="background: -webkit-linear-gradient(#f4f6f7, #861a1e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">{{ page.title }}: {{ site.description }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -17,9 +19,7 @@
         {% assign sorted_pages = site.pages | sort:"order" %}
         {% for page in sorted_pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" style="background: -webkit-linear-gradient(#f4f6f7, #861a1e);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">{{ page.title }}: {{ site.description }}</a>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
