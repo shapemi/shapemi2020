@@ -20,7 +20,8 @@ This workshop targets theoretical contributions as well as exciting applications
 
 # Organizers
 - Martin Reuter, German Center for Neurodegenerative Diseases, Bonn, Germany <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& Harvard Medical School, Boston, USA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+& Harvard Medical School, Boston, USA
 - Christian Wachinger, Ludwig-Maximilian-University, Munich, Germany
 - Hervé Lombaert, ETS Montreal, Canada & Inria Sophia-Antipolis, France
 - Beatriz Paniagua, Kitware Inc. and University of North Carolina at Chapel Hill, USA
