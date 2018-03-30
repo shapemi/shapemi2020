@@ -1,4 +1,4 @@
-+![ShapeMI](images/ShapeMILogo_front.png "ShapeMI 2018")
+![ShapeMI](images/ShapeMILogo_front.png "ShapeMI 2018")
 
 We gladly announce the workshop on **Shape** in **M**edical **I**maging (SHAPEMI), which is held in conjunction with the conference on Medical Image Computing and Computer Assisted Interventions ([MICCAI 2018](http://www.miccai2018.org/en/)) in Granada, Spain. This workshop arises from the previous MICCAI [SeSAMI](https://sites.google.com/site/sesami2016/) and [SAMI](https://sites.google.com/site/miccaisami2015/) Workshops as well as the [Shape Symposium](http://www.shapesymposium.org) 2015 and 2014. It will provide a presentation venue for researchers working in shape/geometric modeling, learning, analysis, statistics, classification and applications. 
 
