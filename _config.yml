@@ -1,11 +1,11 @@
 # Site settings
-title: SlicerSALT
-email: beatriz.paniagua@kitware.com
+title: ShapeMI
+email: shapemi2018@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Shape Analysis in 3D Slicer: open-source software for shape analysis studies
+  MICCAI 2018 Workshop on Shape in Medical Imaging
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username: Kitware/SlicerSALT
+#github_username:shapemi
 
 # Build settings
 markdown: kramdown
