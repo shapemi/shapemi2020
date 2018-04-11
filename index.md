@@ -2,7 +2,7 @@ We gladly announce the workshop on **Shape** in **M**edical **I**maging (ShapeMI
 
 Today’s image data often represents continuous and time-varying phenomena, usually with a geometric structure. Shape and geometry processing methods are receiving increased attention, for example, due to their higher sensitivity to local variations relative to traditional markers, such as the volume of a structure. Shape and spectral analysis and modeling algorithms, as well as application-driven research, are essential to the essence of this workshop. Shape analysis methods are broadly applicable to many different fields from medical image computing to paleontology, anthropology and beyond.
 
-
+# Topics
 This workshop targets theoretical contributions as well as exciting applications in medical imaging, including (but not limited to):
 - Shape Processing and Analysis
 - Shape Learning and Classification
