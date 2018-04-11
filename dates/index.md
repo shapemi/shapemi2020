@@ -5,4 +5,12 @@ permalink: /dates/
 order: 3
 ---
 # Important Dates
-We will release a call for papers, abstracts and demos soon. The deadline will be in June or July 2018.
+We will release a call for papers, abstracts and demos soon.
+
+| event | date |
+|---|:---:|
+| paper/abstract submission | mid June  | 
+| acceptance notification | end July |
+| MICCAI early bird | August 10 |
+| camera ready papers | end August |
+| ShapeMI workshop | September 20  | 
