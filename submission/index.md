@@ -6,7 +6,7 @@ order: 2
 ---
 # Paper and Demo Submission
 
-* **Abstracts**: We accept the submission of abstracts (2-3 pages, including figures and references) for cutting-edge developments. Abstracts should follow the LNCS style (see below) and section outline: Background, Methods, Results, Discussion, and include up to 3 figures. 
+* **Abstracts**: We accept the submission of abstracts (2-3 pages, including figures and references). Abstracts should follow the LNCS style (see below) and section outline: Background, Methods, Results, Discussion, and include up to 3 figures. 
 * **Papers**: We accept full papers (8-12 pages, single column, [LNCS style](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines), Latex package: ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip ). 
 * **Software Demos**: Both, accepted abstracts and full papers have the option to apply for presenting an on-site software demo. 
 * **Review**: The review is single-blind, submissions should include authors and affiliations. Reviewers will be chosen among experts in the medical image computing community.
