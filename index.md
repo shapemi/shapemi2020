@@ -19,7 +19,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Relevant demos of freely available shape analysis software 
 
 # Academic objectives
-<p align="justify"> This workshops aims at bringing together mecdical imaging scientists to discuss novel approaches and application in shape and geometry processing and their use in research and clinical studies and applications. Another aim is to explore novel, cutting-edge theoretical methods and their usefullness for medical applications, such as from the fields of geometric learning or spectral shape analysis. As a single-track workshop, ShapeMI will feature excellent keynote speakers, technical paper presentations and demonstrations of state-of-the-art software for shape processing in medical research. </p>
+<p align="justify"> This workshops aims at bringing together medical imaging scientists to discuss novel approaches and application in shape and geometry processing and their use in research and clinical studies and applications. Another aim is to explore novel, cutting-edge theoretical methods and their usefullness for medical applications, such as from the fields of geometric learning or spectral shape analysis. As a single-track workshop, ShapeMI will feature excellent keynote speakers, technical paper presentations and demonstrations of state-of-the-art software for shape processing in medical research. </p>
 
 # Organizers
 - [Martin Reuter](http://reuter.mit.edu), German Center for Neurodegenerative Diseases, Bonn, Germany <br/>
@@ -30,3 +30,15 @@ Today’s image data usually represents 3D geometric structures, often describin
 - [Beatriz Paniagua](https://www.kitware.com/beatriz-paniagua/), Kitware Inc. and University of North Carolina at Chapel Hill, USA
 - [Marcel Lüthi](http://gravis.dmi.unibas.ch/people/LuethiM.html), University of Basel, Switzerland
 - [Bernhard Egger](https://www.csail.mit.edu/person/bernhard-egger), Massachusetts Institute of Technology, USA
+
+# Advisory Board / Program Committee
+- Ender Konukoglu, ETH Zürich
+- Guido Gerig, NYU
+- Kilian Pohl, SRI International
+- Marc Niethammer, UNC
+- Martin Styner, UNC
+- Stefan Sommer, U Copenhagen
+- Steve Pizer, UNC
+- Washington Mio, FSU
+- Yonggang Shi, USC
+
