@@ -19,7 +19,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Relevant demos of freely available shape analysis software 
 
 # Academic objectives
-<p align="justify"> This workshops aims at bringing together medical imaging scientists to discuss novel approaches and application in shape and geometry processing and their use in research and clinical studies and applications. Another aim is to explore novel, cutting-edge theoretical methods and their usefullness for medical applications, such as from the fields of geometric learning or spectral shape analysis. As a single-track workshop, ShapeMI will feature excellent [keynote speakers](https://shapemi.github.io/keynotes/), [technical paper presentations and demonstrations](https://shapemi.github.io/submission/) of state-of-the-art software for shape processing in medical research. </p>
+<p align="justify"> This workshops aims at bringing together medical imaging scientists to discuss novel approaches and application in shape and geometry processing and their use in research and clinical studies and applications. Another aim is to explore novel, cutting-edge theoretical methods and their usefullness for medical applications, such as from the fields of geometric learning or spectral shape analysis. As a single-track workshop, ShapeMI will feature excellent <a href="https://shapemi.github.io/keynotes/" target="_blank">keynote speakers</a>, <a href="https://shapemi.github.io/submission/" target="_blank">technical paper presentations and demonstrations</a> of state-of-the-art software for shape processing in medical research. </p>
 
 # Organizers
 - [Martin Reuter](http://reuter.mit.edu), German Center for Neurodegenerative Diseases, Bonn, Germany <br/>
