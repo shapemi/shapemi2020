@@ -37,6 +37,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Kilian Pohl, SRI International
 - Marc Niethammer, UNC
 - Martin Styner, UNC
+- Orcun Goksel, ETH Zürich
 - Stefan Sommer, U Copenhagen
 - Steve Pizer, UNC
 - Washington Mio, FSU
