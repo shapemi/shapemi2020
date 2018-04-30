@@ -35,6 +35,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 # Advisory Board / Program Committee
 - Ender Konukoglu, ETH Zürich
 - Guido Gerig, NYU
+- Julien Lefèvre, U Aix-Marseille
 - Kilian Pohl, SRI International
 - Marc Niethammer, UNC
 - Martin Styner, UNC
