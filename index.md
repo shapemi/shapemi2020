@@ -33,6 +33,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - [Bernhard Egger](https://www.csail.mit.edu/person/bernhard-egger), Massachusetts Institute of Technology, USA
 
 # Advisory Board / Program Committee
+- Diana Mateus, EC Nantes
 - Ender Konukoglu, ETH Zürich
 - Guido Gerig, NYU
 - Julien Lefèvre, U Aix-Marseille
