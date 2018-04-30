@@ -1,5 +1,5 @@
 
-![ShapeMI](images/LogoShapeMI.jpg "ShapeMI MICCAI 2018: Workshop on Shape in Medical Imaging")
+![ShapeMI](images/LogoShapeMI.png "ShapeMI MICCAI 2018: Workshop on Shape in Medical Imaging")
 
 <p align="justify"> We gladly announce the workshop on <span style="font-weight:bold">Shape</span> in <span style="font-weight:bold">M</span>edical <span style="font-weight:bold">I</span>maging (ShapeMI), which is held in conjunction with the conference on Medical Image Computing and Computer Assisted Interventions (<a href="http://www.miccai2018.org/en/" target="_blank">MICCAI 2018</a>) in Granada, Spain on <span style="font-weight:bold">September 20, 2018 (full day)</span>. This workshop arises from the previous MICCAI <a href="https://sites.google.com/site/sesami2016/" target="_blank">SeSAMI'16</a> and <a href="https://sites.google.com/site/miccaisami2015/" target="_blank">SAMI'15</a> Workshops as well as the <a href="http://www.shapesymposium.org" target="_blank">Shape Symposium</a> 2015 and 2014. It will provide a venue for researchers working in shape/geometric modeling, learning, analysis, statistics, classification and applications to share novel ideas, to present recent research results and to interact with each other.
 
