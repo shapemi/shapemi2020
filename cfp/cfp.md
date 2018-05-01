@@ -61,7 +61,7 @@ Best Paper Award Sponsored by Kitware.
 
 # IMPORTANT DATES
 
- - Deadline for paper submission: ** June 25th, 2018, 23:59 PST **
+ - Deadline for paper submission: June 25th, 2018, 23:59 PST
  - Notification of Acceptance: July 25th, 2018
  - MICCAI Early bird registration:  August 10th, 2018
  - SHAPEMI Workshop on:  September 20th, 2018
