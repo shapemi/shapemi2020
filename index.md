@@ -47,6 +47,8 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Yonggang Shi, USC
 - Marius Lingurary, Children's National Medical Center
 - Tim Cootes, University of Manchester
+- Thomas Vetter, University of Basel
+- Miaomiao Zhang, Lehigh University
 
 # Best Paper Awards
 The best paper award is sponsored by [![Kitware](images/kitware.png)](https://www.kitware.com/)
