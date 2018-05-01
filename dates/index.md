@@ -5,8 +5,6 @@ permalink: /dates/
 order: 3
 ---
 # Important Dates
-We will release a call for papers, abstracts and demos soon.
-
 | event | date |
 |---|:---:|
 | paper/abstract submission | June 25th, 2018, 23:59 PST  | 
