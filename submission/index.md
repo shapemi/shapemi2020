@@ -13,5 +13,6 @@ order: 2
 * **Review**: The review is single-blind, submissions should include authors and affiliations. Reviewers will be chosen among experts in the medical image computing community.
 * **Presentations**: The most original contributions will be selected for oral or poster presentations.
 * **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS). We may not be able to include abstracts in the proceedings.
+* **Deadline for paper submission**: June 25th, 2018, 23:59 PST
 
 Please note that at least one co-author **must register** to the workshop by the early bird registration deadline **Aug. 10, 2018**.
