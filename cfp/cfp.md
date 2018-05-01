@@ -57,7 +57,7 @@ Every accepted paper or abstract can include a live demo.
 
 This workshop will provide an invaluable opportunity for researchers to present recent work on shape analysis in medical imaging. Interactions among fellow researchers will foster a deeper understanding of the underlying concepts and will provide insights on medical imaging applications.
 
-Best Paper Award Sponsored by Kitware. 
+Best Paper Award Sponsored by [Kitware](https://www.kitware.com/). 
 
 # IMPORTANT DATES
 
