@@ -13,11 +13,11 @@ Granada, Spain, Sep 20th, 2018
 https://shapemi.github.io/
 ******************************************************************
 
-(*) Description
+# Description
 
 We gladly announce the workshop for Shape Analysis in Medical Imaging (SHAPEMI, https://shapemi.github.io/) held in conjunction with the conference on MICCAI – Medical Image Computing and Computer Assisted Interventions, in Granada, Spain, Sep 20th, 2018. 
 
-(*) Aim and Scope
+# Aim and Scope
 
 Shape and geometry processing methods are receiving increased attention, notably, in medical imaging. 
 
@@ -30,7 +30,7 @@ Original contributions as well as well as exciting applications in medical imagi
 
 Every accepted paper or abstract can include a live demo. 
 
-(*) Targets topics include, but are not limited to: 
+# Targets topics include, but are not limited to: 
  
 * Shape Processing and Analysis
 * Shape Learning and Classification
@@ -45,7 +45,7 @@ Every accepted paper or abstract can include a live demo.
 * Evaluation / quality assessment of shape models
 * Relevant demos of freely available shape analysis software
 
-(*) Keynote speakers on the preliminary list include:
+# Keynote speakers on the preliminary list include:
 
 * Dr. Michael Bronstein, University of Lugano
 * Dr. Daniel Rueckert, Imperial College London
@@ -56,7 +56,7 @@ This workshop will provide an invaluable opportunity for researchers to present 
 
 Best Paper Award Sponsored by Kitware. 
 
-** IMPORTANT DATES **
+# IMPORTANT DATES
 
  - Deadline for paper submission: ** June 25th, 2018, 23:59 PST **
  - Notification of Acceptance: July 25th, 2018
