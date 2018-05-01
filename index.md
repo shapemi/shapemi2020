@@ -45,4 +45,6 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Steve Pizer, UNC
 - Washington Mio, FSU
 - Yonggang Shi, USC
+- Marius Lingurary, Children's National Medical Center
+- Tim Cootes, University of Manchester
 
