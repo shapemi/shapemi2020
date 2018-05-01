@@ -51,6 +51,6 @@ Today’s image data usually represents 3D geometric structures, often describin
 # Best Paper Awards
 The best paper award is sponsored by
 
-[![Kitware](images/kitware.png)](https://www.kitware.com/) Open Source Platforms, Advanced Research Solutions
+[![Kitware](images/kitware.png)](https://www.kitware.com/) - Open Source Platforms, Advanced Research Solutions
 
 
