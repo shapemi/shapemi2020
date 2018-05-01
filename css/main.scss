@@ -25,6 +25,10 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+.sponsors{
+$base-font-size:   12px;
+}
+
 
 // Using media queries with like this:
 // @include media-query($palm) {
