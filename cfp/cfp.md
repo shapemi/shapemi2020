@@ -6,16 +6,19 @@ order: 2
 ---
 # Call for Papers
 
-******************************************************************
+
 MICCAI SHAPEMI
+
 Workshop on Shape Analysis in Medical Imaging
+
 Granada, Spain, Sep 20th, 2018
-https://shapemi.github.io/
-******************************************************************
+
+[https://shapemi.github.io/](https://shapemi.github.io/)
+
 
 # Description
 
-We gladly announce the workshop for Shape Analysis in Medical Imaging (SHAPEMI, https://shapemi.github.io/) held in conjunction with the conference on MICCAI – Medical Image Computing and Computer Assisted Interventions, in Granada, Spain, Sep 20th, 2018. 
+We gladly announce the workshop for Shape Analysis in Medical Imaging (SHAPEMI, [https://shapemi.github.io/](https://shapemi.github.io/)) held in conjunction with the conference on MICCAI – Medical Image Computing and Computer Assisted Interventions, in Granada, Spain, Sep 20th, 2018. 
 
 # Aim and Scope
 
