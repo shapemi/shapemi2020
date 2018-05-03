@@ -36,23 +36,24 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Diana Mateus, EC Nantes
 - Ender Konukoglu, ETH Zürich
 - Guido Gerig, NYU
+- James Fishbaugh, NYU
 - Julien Lefèvre, U Aix-Marseille
 - Kilian Pohl, SRI International
 - Marc Niethammer, UNC
 - Martin Styner, UNC
+- Marius Lingurary, Children's National Medical Center
+- Miaomiao Zhang, Lehigh U
 - Orcun Goksel, ETH Zürich
+- Philippe Buechler, U Bern
 - Stefan Sommer, U Copenhagen
 - Steve Pizer, UNC
+- Tim Cootes, U Manchester
+- Tinashe Mutsvangwa, U Cape Town
+- Thomas Vetter, U Basel
 - Washington Mio, FSU
+- Xavier Pennec, INRIA Sophia Antipolis
 - Yonggang Shi, USC
-- Marius Lingurary, Children's National Medical Center
-- Tim Cootes, University of Manchester
-- Thomas Vetter, University of Basel
-- Miaomiao Zhang, Lehigh University
-- Tinashe Mutsvangwa, University of Cape Town
 - Yoshinobu Sato, NAIST
-- Philippe Buechler, University of Bern
-- James Fishbaugh, NYU Tandon School of Engineering
 
 # Best Paper Awards
 The best paper award is sponsored by [![Kitware](images/kitware.png)](https://www.kitware.com/)
