@@ -49,6 +49,9 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Tim Cootes, University of Manchester
 - Thomas Vetter, University of Basel
 - Miaomiao Zhang, Lehigh University
+- Tinashe Mutsvangwa, University of Cape Town
+- Yoshinobu Sato, NAIST
+- Philippe Buechler, University of Bern
 
 # Best Paper Awards
 The best paper award is sponsored by [![Kitware](images/kitware.png)](https://www.kitware.com/)
