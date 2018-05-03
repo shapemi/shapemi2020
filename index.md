@@ -52,6 +52,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Tinashe Mutsvangwa, University of Cape Town
 - Yoshinobu Sato, NAIST
 - Philippe Buechler, University of Bern
+- James Fishbaugh, NYU Tandon School of Engineering
 
 # Best Paper Awards
 The best paper award is sponsored by [![Kitware](images/kitware.png)](https://www.kitware.com/)
