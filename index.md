@@ -50,6 +50,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Tim Cootes, U Manchester
 - Tinashe Mutsvangwa, U Cape Town
 - Thomas Vetter, U Basel
+- Umberto Castellani, U Verona
 - Washington Mio, FSU
 - Xavier Pennec, INRIA Sophia Antipolis
 - Yonggang Shi, USC
