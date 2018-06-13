@@ -8,7 +8,7 @@ order: 3
 
 | event | date |
 |---|:---:|
-| paper/abstract submission | June 25th, 2018, 23:59 PST  | 
+| paper/abstract submission | **June 25th, 2018, 23:59 PST** (fixed - no extension!)  | 
 | acceptance notification until | July 25th, 2018 |
 | MICCAI early bird | August 10th, 2018 |
 | camera ready papers | TBA, 2018 |
