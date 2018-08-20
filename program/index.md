@@ -2,8 +2,6 @@
 layout: default
 title: Program
 permalink: /Program/
-encoding: utf-8
-markdown: kramdown
 order: 2
 ---
 
