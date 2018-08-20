@@ -26,8 +26,8 @@ order: 2
         min-width: 8em;
         background-color: #DAF7A6 
         }
-.tablelines0 table, .tablelines table, .tablelines1 table, .tablelines2 table {
-        width: 50em;
+.tablelines0 th, .tablelines th, .tablelines1 th, .tablelines2 th {
+        width: 100em;
         }
 </style>
 
