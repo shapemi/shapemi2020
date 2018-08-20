@@ -19,22 +19,17 @@ order: 2
  
 | 09:30 - 09:45 | Opening  (10 min)|
 | 09:40 - 10:25 | **Keynote for “Shape Methods” Michael Bronstein** |
-| 10:25 - 10:45 | Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <br>
-                 *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu*|
-| 10:45 - 11:05 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br>
-                 *Jean Feydy, Alain Trouve*|
+| 10:25 - 10:45 | Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <br> *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu*|
+| 10:45 - 11:05 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|
 {: .tablelines}
  
 ** 11:00 – 11:30                   Coffee Break **
 ** 11:30 – 13:30                   Satellite Events AM(II)**
  
-| 11:30 - 11:50 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br>
-                  *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
-| 11:50 - 12:10 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br>
-                  *Sungmin Hong, James Fishbaugh and Guido Gerig*|
+| 11:30 - 11:50 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br> *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
+| 11:50 - 12:10 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br> *Sungmin Hong, James Fishbaugh and Guido Gerig*|
 | 12:10 - 12:55 | **Keynote for “Shape Applications/Validation/Software” Stanley Durleman**|
-| 12:55 - 13:15 | Deformetrica 4: an open-source software for statistical shape analysis <br>
-                  *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
+| 12:55 - 13:15 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
 | 13:15 - 13:35 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br>
                   *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines}
@@ -46,22 +41,17 @@ See list at the end of the program
 
 ** 15:00 – 16:30                   Satellite Events PM(I)**
  
-| 15:00 - 15:20 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br>
-                  *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
-| 15:20 - 15:40 | Interpretable Spiculation Quantification for Lung Cancer Screening <br>
-                  *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*|
+| 15:00 - 15:20 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br> *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
+| 15:20 - 15:40 | Interpretable Spiculation Quantification for Lung Cancer Screening <br> *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*|
 | 15:40 - 16:25 | **Keynote for "Shape classification and deep learning" Daniel Rueckert**|
 {: .tablelines}
 
 ** 16:30 – 17:00                   Coffee Break**
 ** 17:00 – 19:00                   Satellite Events PM(II)  **  
  
-| 17:00 - 17:20 | Deep Shape Analysis on Abdominal Organs for Diabetes Prediction <br>
-                 *Benjamin Gutierrez Becker, Sergios Gatidis, Daniel Gutmann, Anette Peters, Christopher Schlett, Fabian Bamberg, Christian Wachinger*|
-| 17:20 - 17:40 | Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br>
-                 *Kris M. Campbell, P. Thomas Fletcher*|
-| 17:40 - 18:00 | DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images <br>
-                 *Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker*|
+| 17:00 - 17:20 | Deep Shape Analysis on Abdominal Organs for Diabetes Prediction <br> *Benjamin Gutierrez Becker, Sergios Gatidis, Daniel Gutmann, Anette Peters, Christopher Schlett, Fabian Bamberg, Christian Wachinger*|
+| 17:20 - 17:40 | Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br> *Kris M. Campbell, P. Thomas Fletcher*|
+| 17:40 - 18:00 | DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images <br> *Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker*|
 | 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
 {: .tablelines}
 
