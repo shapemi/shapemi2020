@@ -23,7 +23,7 @@ order: 2
 | 10:45 - 11:05 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|
 {: .tablelines}
 
-<br><br>
+<br>
  
 ### 11:00 – 11:30 Coffee Break
 ### 11:30 – 13:30 Satellite Events AM(II)
@@ -35,7 +35,7 @@ order: 2
 | 13:15 - 13:35 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines}
 
-<br><br>
+<br>
 
 ### 13:30 – 15:00 Lunch / Poster and Demo Session
 See list at the end of the program
@@ -47,7 +47,7 @@ See list at the end of the program
 | 15:40 - 16:25 | <span style="font-weight:bold">Keynote for "Shape classification and deep learning" Daniel Rueckert</span>|
 {: .tablelines}
 
-<br><br>
+<br>
 
 ### 16:30 – 17:00 Coffee Break
 ### 17:00 – 19:00 Satellite Events PM(II) 
@@ -58,19 +58,19 @@ See list at the end of the program
 | 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
 {: .tablelines}
 
-<br><br>
+<br>
 ## Posters and Demos:
  
-Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <span style="font-weight:bold">(with Demo)</span>
+Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <span style="font-weight:bold">(with Demo)</span><br>
 *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito and Akinobu Shimizu*
  
-Deformetrica 4: an open-source software for statistical shape analysis <span style="font-weight:bold">(with Demo)</span>
+Deformetrica 4: an open-source software for statistical shape analysis <span style="font-weight:bold">(with Demo)</span><br>
 *Alexandre Bône, Maxime Louis, Benoit Martin and Stanley Durrleman*
 
-Probabilistic Fitting of Active Shape Models <span style="font-weight:bold">(with Demo)</span>
+Probabilistic Fitting of Active Shape Models <span style="font-weight:bold">(with Demo)</span><br>
 *Andreas Morel-Forster, Thomas Gerig, Marcel Lüthi and Thomas Vetter*
 
-Shape and Facet Analyses of Alveolar Airspaces of the Lung <span style="font-weight:bold">(with Demo)</span>
+Shape and Facet Analyses of Alveolar Airspaces of the Lung <span style="font-weight:bold">(with Demo)</span><br>
 *Roman Grothausmann, Christian Mühlfeld, Matthias Ochs and Lars Knudsen*
  
 SlicerSALT: Shape AnaLysis Toolbox <span style="font-weight:bold">(with Demo)</span>
