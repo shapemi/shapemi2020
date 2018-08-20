@@ -50,9 +50,9 @@ order: 2
  
 | 11:30 - 11:50 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br> *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
 | 11:50 - 12:10 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br> *Sungmin Hong, James Fishbaugh and Guido Gerig*|
-| 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
 {: .tablelines}
 
+| 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
 | 12:55 - 13:15 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
 | 13:15 - 13:35 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines3}
