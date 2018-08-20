@@ -9,26 +9,25 @@ order: 2
 .tablelines0 table, .tablelines0 td, .tablelines0 th {
         border: 1px solid black;
         min-width: 8em;
-        width: 50em;
         }
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         min-width: 8em;
-        width: 50em;
         background-color: #ff5733
         }
         
 .tablelines2 table, .tablelines2 td, .tablelines2 th {
         border: 1px solid black;
         min-width: 8em;
-        width: 50em;
         background-color: #FFC300
         }
 .tablelines3 table, .tablelines3 td, .tablelines3 th {
         border: 1px solid black;
         min-width: 8em;
-        width: 50em;
         background-color: #DAF7A6 
+        }
+.tablelines0 table, .tablelines table, .tablelines1 table, .tablelines2 table {
+        width: 50em;
         }
 </style>
 
