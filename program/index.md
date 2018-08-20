@@ -16,8 +16,7 @@ order: 2
 <tr><td> 10:25 - 10:45 </td><td> Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis
                 <em>Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu</em></td></tr>
 <tr><td> 10:45 - 11:05 </td><td> Global divergences between measures: from Hausdorff distance to Optimal Transport 
-                <em>Jean Feydy, Alain Trouve</em></td></tr>
-</table>
+                <em>Jean Feydy, Alain Trouve</em></td></tr></table>
 
 <p><strong>11:00 – 11:30                   Coffee Break</strong><br/>
 <strong>11:30 – 13:30                   Satellite Events AM(II)</strong></p>
@@ -31,8 +30,7 @@ order: 2
 <tr><td> 12:55 - 13:15 </td><td> Deformetrica 4: an open-source software for statistical shape analysis<br/>
                 <em>Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman</em></td></tr>
 <tr><td> 13:15 - 13:35 </td><td> On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application<br/>
-                <em>Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian</em></td></tr>
-</table>
+                <em>Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian</em></td></tr></table>
 
 <strong>13:30 – 15:00                   Lunch / Poster and Demo Session</strong><br/>
 See list at the end of the program</p>
@@ -44,8 +42,7 @@ See list at the end of the program</p>
                 <em>Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich</em></td></tr>
 <tr><td> 15:20 - 15:40 </td><td> Interpretable Spiculation Quantification for Lung Cancer Screening<br/>
                 <em>Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu</em></td></tr>
-<tr><td> 15:40 - 16:25 </td><td> <strong>Keynote for "Shape classification and deep learning" Daniel Rueckert</strong></td></tr>
-</table>
+<tr><td> 15:40 - 16:25 </td><td> <strong>Keynote for "Shape classification and deep learning" Daniel Rueckert</strong></td></tr></table>
 
 <p><strong>16:30 – 17:00                   Coffee Break</strong><br/>
 <strong>17:00 – 19:00                   Satellite Events PM(II)</strong>  </p>
@@ -57,8 +54,7 @@ See list at the end of the program</p>
                <em>Kris M. Campbell, P. Thomas Fletcher</em></td></tr>
 <tr><td> 17:40 - 18:00 </td><td> DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images<br/>
                <em>Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker</em></td></tr>
-<tr><td> 18:00 - 19:00 </td><td> Discussion/Conclusions/Adjourn</td></tr>
-</table>
+<tr><td> 18:00 - 19:00 </td><td> Discussion/Conclusions/Adjourn</td></tr></table>
 <p><strong>Posters and Demos:</strong></p>
 
 <p>Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <strong>(with Demo)</strong><br/>
