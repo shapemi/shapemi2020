@@ -6,6 +6,11 @@ order: 2
 ---
 
 <style>
+.tablelines0 table, .tablelines0 td, .tablelines0 th {
+        border: 1px solid black;
+        min-width: 8em;
+        bgcolor=#ff5733
+        }
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         min-width: 8em;
@@ -30,6 +35,7 @@ order: 2
 ### 09:30 – 11:00 Satellite Events AM(I)
  
 | 09:30 - 09:45 | Opening  (10 min)|
+{: .tablelines0}
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Methods” Michael Bronstein</span> |
 | 10:25 - 10:45 | Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <br> *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu*|
 | 10:45 - 11:05 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|
@@ -69,8 +75,9 @@ See list at the end of the program
 | 17:00 - 17:20 | Deep Shape Analysis on Abdominal Organs for Diabetes Prediction <br> *Benjamin Gutierrez Becker, Sergios Gatidis, Daniel Gutmann, Anette Peters, Christopher Schlett, Fabian Bamberg, Christian Wachinger*|
 | 17:20 - 17:40 | Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br> *Kris M. Campbell, P. Thomas Fletcher*|
 | 17:40 - 18:00 | DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images <br> *Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker*|
-| 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
 {: .tablelines3}
+| 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
+{: .tablelines}
 
 <br>
 ## Posters and Demos:
