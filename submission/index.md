@@ -2,7 +2,7 @@
 layout: default
 title: Submission
 permalink: /submission/
-order: 2
+order: 3
 ---
 # Paper and Demo Submission
 
