@@ -9,11 +9,10 @@ order: 2
 .tablelines0 table, .tablelines0 td, .tablelines0 th {
         border: 1px solid black;
         min-width: 8em;
-      table-layout: fixed;
       }
-.tablelines0 table,.tablelines0 th, .tablelines1 table,.tablelines1 th, .tablelines2 table,.tablelines2 th, .tablelines table,.tablelines th {
+.tablelines0 table, .tablelines0 th, .tablelines1 table, .tablelines1 th, .tablelines2 table, .tablelines2 th, .tablelines table, .tablelines th {
     table-layout: fixed;
-    width: 100%;
+    width: 100%
       }
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
