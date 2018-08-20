@@ -83,7 +83,7 @@ See list at the end of the program
 {: .tablelines2}
 
 | 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
-{: .tablelines}
+{: .tablelines0}
 
 <br>
 ## Posters and Demos:
