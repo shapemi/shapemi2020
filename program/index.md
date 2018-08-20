@@ -13,7 +13,7 @@ order: 2
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         min-width: 8em;
-        background-color: #ff5733
+        background-color: #FF5733
         }
         
 .tablelines2 table, .tablelines2 td, .tablelines2 th {
