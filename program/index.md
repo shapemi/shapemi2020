@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Program
-permalink: /Program/
+permalink: /program/
 order: 2
 ---
 
