@@ -26,9 +26,6 @@ order: 2
         min-width: 8em;
         background-color: #DAF7A6 
         }
-.tablelines0 tr, .tablelines tr, .tablelines1 tr, .tablelines2 tr {
-        width: 100em;
-        }
 </style>
 
 # 20 September 2018, Thursday
