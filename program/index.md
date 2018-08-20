@@ -8,7 +8,7 @@ order: 2
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 0px solid black;
-          min-width: 4em;
+          min-width: 1.8em;
         }
 </style>
 
