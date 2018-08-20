@@ -7,8 +7,8 @@ order: 2
 
 <h1 id="20september2018thursday">20 September 2018, Thursday</h1>
 
-<p><em>* 08:30 – 09:30                   Registration *</em><br/>
-<em>* 09:30 – 11:00                   Satellite Events AM(I) *</em></p>
+<p><strong>08:30 – 09:30                   Registration</strong><br/>
+<strong>09:30 – 11:00                   Satellite Events AM(I)</strong></p>
 
 <table>
  <tr><td> 09:30 - 09:45 </td><td> Opening  (10 min)
@@ -19,8 +19,8 @@ order: 2
                 <em>Jean Feydy, Alain Trouve</em></td></tr>
  </table>
 
-<p><em>* 11:00 – 11:30                   Coffee Break *</em><br/>
-<em>* 11:30 – 13:30                   Satellite Events AM(II)</em>*</p>
+<p><strong>11:00 – 11:30                   Coffee Break</strong><br/>
+<strong>11:30 – 13:30                   Satellite Events AM(II)</strong></p>
 
 <table>
 <tr><td> 11:30 - 11:50 </td><td> Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension<br/>
@@ -34,10 +34,10 @@ order: 2
                 <em>Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian</em></td></tr>
  </table>
 
-<em>* 13:30 – 15:00                   Lunch / Poster and Demo Session</em>*<br/>
+<strong>13:30 – 15:00                   Lunch / Poster and Demo Session</strong><br/>
 See list at the end of the program</p>
 
-<p><em>* 15:00 – 16:30                   Satellite Events PM(I)</em>*</p>
+<p><strong>15:00 – 16:30                   Satellite Events PM(I)</strong></p>
 
 <table>
 <tr><td> 15:00 - 15:20 </td><td> Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting<br/>
@@ -47,8 +47,8 @@ See list at the end of the program</p>
 <tr><td> 15:40 - 16:25 </td><td> <strong>Keynote for "Shape classification and deep learning" Daniel Rueckert</strong></td></tr>
  </table>
 
-<p><em>* 16:30 – 17:00                   Coffee Break</em>*<br/>
-<em>* 17:00 – 19:00                   Satellite Events PM(II)  *</em>  </p>
+<p><strong>16:30 – 17:00                   Coffee Break</strong><br/>
+<strong>17:00 – 19:00                   Satellite Events PM(II)</strong>  </p>
 
 <table>
 <tr><td> 17:00 - 17:20 </td><td> Deep Shape Analysis on Abdominal Organs for Diabetes Prediction<br/>
