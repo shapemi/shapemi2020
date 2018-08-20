@@ -43,6 +43,7 @@ order: 2
 | 11:30 - 11:50 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br> *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
 | 11:50 - 12:10 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br> *Sungmin Hong, James Fishbaugh and Guido Gerig*|
 | 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
+{: .tablelines}
 | 12:55 - 13:15 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
 | 13:15 - 13:35 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines2}
@@ -56,6 +57,7 @@ See list at the end of the program
  
 | 15:00 - 15:20 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br> *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
 | 15:20 - 15:40 | Interpretable Spiculation Quantification for Lung Cancer Screening <br> *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*|
+{: .tablelines2}
 | 15:40 - 16:25 | <span style="font-weight:bold">Keynote for "Shape classification and deep learning" Daniel Rueckert</span>|
 {: .tablelines3}
 
