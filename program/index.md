@@ -10,6 +10,8 @@ order: 2
         border: 1px solid black;
         min-width: 8em;
       table-layout: fixed;
+      }
+.tablelines0 table,.tablelines0 th {
     width: 100em;
       }
 .tablelines table, .tablelines td, .tablelines th {
