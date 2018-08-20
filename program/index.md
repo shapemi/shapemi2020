@@ -52,7 +52,7 @@ See list at the end of the program</p>
 
 <table>
 <tr><td> 17:00 - 17:20 </td><td> Deep Shape Analysis on Abdominal Organs for Diabetes Prediction<br/>
-               |<em>Benjamin Gutierrez Becker, Sergios Gatidis, Daniel Gutmann, Anette Peters, Christopher Schlett, Fabian Bamberg, Christian Wachinger</em></td></tr>
+               <em>Benjamin Gutierrez Becker, Sergios Gatidis, Daniel Gutmann, Anette Peters, Christopher Schlett, Fabian Bamberg, Christian Wachinger</em></td></tr>
 <tr><td> 17:20 - 17:40 </td><td> Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis<br/>
                <em>Kris M. Campbell, P. Thomas Fletcher</em></td></tr>
 <tr><td> 17:40 - 18:00 </td><td> DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images<br/>
