@@ -2,6 +2,8 @@
 layout: default
 title: Program
 permalink: /Program/
+encoding: utf-8
+markdown: kramdown
 order: 2
 ---
 
@@ -11,7 +13,7 @@ order: 2
 <strong>09:30 – 11:00                   Satellite Events AM(I)</strong></p>
 
 <table>
- <tr><td> 09:30 - 09:45 </td><td> Opening  (10 min)
+<tr><td> 09:30 - 09:45 </td><td> Opening  (10 min)
 <tr><td> 09:40 - 10:25 </td><td> <strong>Keynote for “Shape Methods” Michael Bronstein</strong> </td></tr>
 <tr><td> 10:25 - 10:45 </td><td> Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis
                 <em>Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu</em></td></tr>
