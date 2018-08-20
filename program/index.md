@@ -14,8 +14,8 @@ order: 2
 
 # 20 September 2018, Thursday
 
-**08:30 – 09:30 Registration **
-**09:30 – 11:00 Satellite Events AM(I) **
+##  08:30 – 09:30 Registration
+## 09:30 – 11:00 Satellite Events AM(I)
  
 | 09:30 - 09:45 | Opening  (10 min)|
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Methods” Michael Bronstein</span> |
