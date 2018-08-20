@@ -10,7 +10,7 @@ order: 2
         border: 1px solid black;
         min-width: 8em;
       }
-.tablelines0 table, .tablelines0 tr, .tablelines1 table, .tablelines1 tr, .tablelines2 table, .tablelines2 tr, .tablelines table, .tablelines tr {
+.tablelines0 table, .tablelines0 tbody, .tablelines1 table, .tablelines1 tbody, .tablelines2 table, .tablelines2 tbody, .tablelines table, .tablelines tbody {
     table-layout: fixed;
     width: 100%
       }
