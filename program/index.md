@@ -9,7 +9,18 @@ order: 2
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         min-width: 8em;
-        bgcolor=lightred
+        bgcolor=#ff5733
+        }
+        
+.tablelines2 table, .tablelines2 td, .tablelines2 th {
+        border: 1px solid black;
+        min-width: 8em;
+        bgcolor=#FFC300
+        }
+.tablelines3 table, .tablelines3 td, .tablelines3 th {
+        border: 1px solid black;
+        min-width: 8em;
+        bgcolor= #DAF7A6 
         }
 </style>
 
@@ -34,7 +45,7 @@ order: 2
 | 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
 | 12:55 - 13:15 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
 | 13:15 - 13:35 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
-{: .tablelines}
+{: .tablelines2}
 
 <br>
 
@@ -46,7 +57,7 @@ See list at the end of the program
 | 15:00 - 15:20 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br> *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
 | 15:20 - 15:40 | Interpretable Spiculation Quantification for Lung Cancer Screening <br> *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*|
 | 15:40 - 16:25 | <span style="font-weight:bold">Keynote for "Shape classification and deep learning" Daniel Rueckert</span>|
-{: .tablelines}
+{: .tablelines3}
 
 <br>
 
@@ -57,7 +68,7 @@ See list at the end of the program
 | 17:20 - 17:40 | Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br> *Kris M. Campbell, P. Thomas Fletcher*|
 | 17:40 - 18:00 | DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images <br> *Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker*|
 | 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
-{: .tablelines}
+{: .tablelines3}
 
 <br>
 ## Posters and Demos:
