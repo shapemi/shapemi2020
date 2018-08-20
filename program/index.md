@@ -74,7 +74,7 @@ Probabilistic Fitting of Active Shape Models <span style="font-weight:bold">(wit
 Shape and Facet Analyses of Alveolar Airspaces of the Lung <span style="font-weight:bold">(with Demo)</span><br>
 *Roman Grothausmann, Christian Mühlfeld, Matthias Ochs and Lars Knudsen*
  
-SlicerSALT: Shape AnaLysis Toolbox <span style="font-weight:bold">(with Demo)</span>
+SlicerSALT: Shape AnaLysis Toolbox <span style="font-weight:bold">(with Demo)</span><br>
 *Jared Vicory, Laura Pascal, James  Fishbaugh, Juan Prieto, Mahmoud Mostafa, Chao Huang, Hina Shah, Junpyo Hong, Zhiyuan Liu, Loic Michoud, Jean-Christophe Fillion-Robin, Guido Gerig, Hongtu Zhu, Stephen Pizer, Martin Styner and Beatriz Paniagua*
 
 3D Shape Analysis for Coarctation of the Aorta
