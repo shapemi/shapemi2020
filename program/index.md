@@ -7,8 +7,8 @@ order: 2
 
 <h1 id="20september2018thursday">20 September 2018, Thursday</h1>
 
-**08:30 – 09:30                   Registration**
-**09:30 – 11:00                   Satellite Events AM(I)**
+<p><strong>08:30 – 09:30                   Registration</strong><br/>
+<strong>09:30 – 11:00                   Satellite Events AM(I)</strong></p>
 
 <table>
  <tr><td> 09:30 - 09:45 </td><td> Opening  (10 min)
