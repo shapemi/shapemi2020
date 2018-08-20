@@ -9,6 +9,7 @@ order: 2
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         min-width: 8em;
+        bgcolor=lightred
         }
 </style>
 
