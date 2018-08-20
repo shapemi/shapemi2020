@@ -13,7 +13,7 @@ order: 2
       }
 .tablelines0 table,.tablelines0 th, .tablelines1 table,.tablelines1 th, .tablelines2 table,.tablelines2 th, .tablelines table,.tablelines th {
     table-layout: fixed;
-    width: 100em;
+    width: 100%;
       }
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
