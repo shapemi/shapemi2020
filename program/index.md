@@ -8,14 +8,14 @@ order: 2
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
-        min-width: 20em;
+        min-width: 8em;
         }
 </style>
 
 # 20 September 2018, Thursday
 
-##  08:30 – 09:30 Registration
-## 09:30 – 11:00 Satellite Events AM(I)
+### 08:30 – 09:30 Registration
+### 09:30 – 11:00 Satellite Events AM(I)
  
 | 09:30 - 09:45 | Opening  (10 min)|
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Methods” Michael Bronstein</span> |
@@ -23,8 +23,8 @@ order: 2
 | 10:45 - 11:05 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|
 {: .tablelines}
  
-**11:00 – 11:30 Coffee Break **
-**11:30 – 13:30 Satellite Events AM(II)**
+### 11:00 – 11:30 Coffee Break
+### 11:30 – 13:30 Satellite Events AM(II)
  
 | 11:30 - 11:50 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br> *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
 | 11:50 - 12:10 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br> *Sungmin Hong, James Fishbaugh and Guido Gerig*|
@@ -35,18 +35,18 @@ order: 2
 
 
 
-**13:30 – 15:00 Lunch / Poster and Demo Session**
+### 13:30 – 15:00 Lunch / Poster and Demo Session
 See list at the end of the program
 
-**15:00 – 16:30  Satellite Events PM(I)**
+### 15:00 – 16:30  Satellite Events PM(I)
  
 | 15:00 - 15:20 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br> *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
 | 15:20 - 15:40 | Interpretable Spiculation Quantification for Lung Cancer Screening <br> *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*|
 | 15:40 - 16:25 | <span style="font-weight:bold">Keynote for "Shape classification and deep learning" Daniel Rueckert</span>|
 {: .tablelines}
 
-**16:30 – 17:00 Coffee Break**
-**17:00 – 19:00 Satellite Events PM(II)  **  
+### 16:30 – 17:00 Coffee Break
+### 17:00 – 19:00 Satellite Events PM(II) 
  
 | 17:00 - 17:20 | Deep Shape Analysis on Abdominal Organs for Diabetes Prediction <br> *Benjamin Gutierrez Becker, Sergios Gatidis, Daniel Gutmann, Anette Peters, Christopher Schlett, Fabian Bamberg, Christian Wachinger*|
 | 17:20 - 17:40 | Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br> *Kris M. Campbell, P. Thomas Fletcher*|
@@ -54,7 +54,7 @@ See list at the end of the program
 | 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
 {: .tablelines}
 
-**Posters and Demos:**
+## Posters and Demos:
  
 Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <span style="font-weight:bold">(with Demo)</span>
 *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito and Akinobu Shimizu*
