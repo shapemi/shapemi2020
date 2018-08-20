@@ -3,6 +3,8 @@ layout: default
 title: Program
 permalink: /Program/
 order: 2
+---
+
 <h1 id="20september2018thursday">20 September 2018, Thursday</h1>
 
 <p><em>* 08:30 – 09:30                   Registration *</em><br/>
