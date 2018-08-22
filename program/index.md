@@ -35,10 +35,9 @@
  
 | 09:30 - 09:45 | Opening  (10 min)|
 {: .tablelines0}
-
-| 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Methods” Michael Bronstein</span> |
-| 10:25 - 10:45 | Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <br> *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu*|
-| 10:45 - 11:05 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|
+| 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
+| 10:25 - 10:45 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
+| 10:45 - 11:05 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines}
 
 <br>
@@ -46,14 +45,14 @@
 ### 11:00 – 11:30 Coffee Break
 ### 11:30 – 13:30 Satellite Events AM(II)
  
-| 11:30 - 11:50 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br> *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
-| 11:50 - 12:10 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br> *Sungmin Hong, James Fishbaugh and Guido Gerig*|
+| 11:30 - 11:50 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br> *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
+| 11:50 - 12:10 | Interpretable Spiculation Quantification for Lung Cancer Screening <br> *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*| 
 {: .tablelines}
 
-| 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
-| 12:55 - 13:15 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
-| 13:15 - 13:35 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
-{: .tablelines3}
+
+| 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Methods” Michael Bronstein</span> |
+| 12:55 - 13:15 | Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <br> *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu*|
+| 13:15 - 13:35 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|{: .tablelines3}
 
 <br>
 
@@ -62,8 +61,8 @@ See list at the end of the program
 
 ### 15:00 – 16:30  Satellite Events PM(I)
  
-| 15:00 - 15:20 | Characterizing Anatomical Variability And Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration And Point Set Geodesic Shooting <br> *Long Xie, Laura Wisse, Sandhitsu Das, Ranjit Ittyerah, Jiancong Wang, David Wolk, Paul A Yushkevich*|
-| 15:20 - 15:40 | Interpretable Spiculation Quantification for Lung Cancer Screening <br> *Wookjin Choi, Saad Nadeem, Sadegh Riyahi, Joseph Deasy, Allen Tannenbaum, Wei Lu*|
+| 15:00 - 15:20 | Parallel Transport of Surface Deformations from Pole Ladder to Symmetrical Extension <br> *Shuman Jia, Nicolas Duchateau, Pamela Moceri, Maxime Sermesant, Xavier Pennec*|
+| 15:20 - 15:40 | 4D Continuous Medial Representation Trajectory Estimation for Longitudinal Shape Analysis <br> *Sungmin Hong, James Fishbaugh and Guido Gerig*|
 {: .tablelines3}
 
 | 15:40 - 16:25 | <span style="font-weight:bold">Keynote for "Shape classification and deep learning" Daniel Rueckert</span>|
