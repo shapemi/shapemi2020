@@ -53,7 +53,8 @@ order: 2
 
 | 12:10 - 12:55 | <span style="font-weight:bold">Keynote for “Shape Methods” Michael Bronstein</span> |
 | 12:55 - 13:15 | Deformable Cubic Hermite Mesh Templates for Statistical Liver Shape Analysis <br> *Hao Bo Yu, Yui Nakagawa, Harvey Ho, Atsushi Saito, Akinobu Shimizu*|
-| 13:15 - 13:35 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|{: .tablelines3}
+| 13:15 - 13:35 | Global divergences between measures: from Hausdorff distance to Optimal Transport <br> *Jean Feydy, Alain Trouve*|
+{: .tablelines3}
 
 <br>
 
