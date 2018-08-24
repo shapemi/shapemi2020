@@ -102,7 +102,7 @@ SlicerSALT: Shape AnaLysis Toolbox <span style="font-weight:bold">(with Demo)</s
 *Jared Vicory, Laura Pascal, James  Fishbaugh, Juan Prieto, Mahmoud Mostafa, Chao Huang, Hina Shah, Junpyo Hong, Zhiyuan Liu, Loic Michoud, Jean-Christophe Fillion-Robin, Guido Gerig, Hongtu Zhu, Stephen Pizer, Martin Styner and Beatriz Paniagua*
 
 3D Shape Analysis for Coarctation of the Aorta
-*Lina S. I. Gundelwein, Heiko Ramm, Leonid Goubergrits, Markus Kelm and Hans Lamecker*
+*Lina Gundelwein, Heiko Ramm, Leonid Goubergrits, Marcus Kelm and Hans Lamecker*
 
 Automatic extraction of a piecewise symmetry surface of a 3D mesh: application to scoliosis
 *Marion Morand, Olivier Comas, Gérard Subsol and Christophe Fiorio*
