@@ -101,45 +101,45 @@ Shape and Facet Analyses of Alveolar Airspaces of the Lung <span style="font-wei
 SlicerSALT: Shape AnaLysis Toolbox <span style="font-weight:bold">(with Demo)</span><br>
 *Jared Vicory, Laura Pascal, James  Fishbaugh, Juan Prieto, Mahmoud Mostafa, Chao Huang, Hina Shah, Junpyo Hong, Zhiyuan Liu, Loic Michoud, Jean-Christophe Fillion-Robin, Guido Gerig, Hongtu Zhu, Stephen Pizer, Martin Styner and Beatriz Paniagua*
 
-3D Shape Analysis for Coarctation of the Aorta
+3D Shape Analysis for Coarctation of the Aorta<br>
 *Lina Gundelwein, Heiko Ramm, Leonid Goubergrits, Marcus Kelm and Hans Lamecker*
 
-Automatic extraction of a piecewise symmetry surface of a 3D mesh: application to scoliosis
+Automatic extraction of a piecewise symmetry surface of a 3D mesh: application to scoliosis<br>
 *Marion Morand, Olivier Comas, Gérard Subsol and Christophe Fiorio*
 
-Combining deep learning and shape priors for bi-ventricular segmentation of volumetric cardiac magnetic resonance images
+Combining deep learning and shape priors for bi-ventricular segmentation of volumetric cardiac magnetic resonance images<br>
 *Jinming Duan, Jo Schlemper, Wenjia Bai, Timothy J W Dawes, Ghalib Bello, Carlo Biffi, Georgia Doumou, Antonio De Marvao, Declan P O’Regan and Daniel Rueckert*
 
-Deep Learning for Quality Control of Subcortical Brain 3D Shape Models
+Deep Learning for Quality Control of Subcortical Brain 3D Shape Models<br>
 *Dimitry M Petrov, Boris Gutman, Egor Kuznetsov, Chris Ching, Kathryn Alpert, Artemis Zavaliangos-Petropulu , Dimitry Isaev, Jessica Turner,  Theo G.M. van Erp,  Lei Wang, Lianne Schmaal, Dick Veltman and Paul Thompson*
 
-Discrimination of Volumetric Shapes using Orthogonal Tensor Decomposition
+Discrimination of Volumetric Shapes using Orthogonal Tensor Decomposition<br>
 *Hayato Itoh and Atsushi Imiya*
 
-Image Registration and Predictive Modeling: Learning the Metric on the Space of Diffeomorphisms
+Image Registration and Predictive Modeling: Learning the Metric on the Space of Diffeomorphisms<br>
 *Ayagoz Mussabayeva, Alexey Kroshnin, Anvar Kurmukov, Yulia Denisova, Li Shen, Shan Cong, Lei Wang and Boris Gutman*
 
-Joint Registration of Multiple Generalized Point Sets
+Joint Registration of Multiple Generalized Point Sets<br>
 *Zhe Min, Jiaole Wang, and Max Q.-H. Meng*
 
-Morphometric Sex Estimation from the Hip Bone by Means of the HIP 1.1 Software
+Morphometric Sex Estimation from the Hip Bone by Means of the HIP 1.1 Software<br>
 *Miroslav Králík, Ondřej Klíma, Petra Urbanová, Lenka Polcerová and Martin Čuta*
 
-OCT segmentation: Integrating open parametric contour model of the retinal layers and shape constraint to the Mumford-Shah functional
+OCT segmentation: Integrating open parametric contour model of the retinal layers and shape constraint to the Mumford-Shah functional<br>
 *Jinming Duan , Weicheng Xie, Ryan Wen Liu, Christopher Tench, Irene Gottlob, Frank Proudlock and Li Bai*
 
-Organ-At-Risk Segmentation in Brain MRI using Model-Based Segmentation: Benefits of Deep Learning-Based Boundary Detectors
+Organ-At-Risk Segmentation in Brain MRI using Model-Based Segmentation: Benefits of Deep Learning-Based Boundary Detectors<br>
 *Eliza Orasanu, Tom Brosch, Carri Glide-Hurst and Steffen Renisch*
 
-Segmenting Bones, Based on Statistical Shape Model and Local Template Matching
+Segmenting Bones, Based on Statistical Shape Model and Local Template Matching<br>
 *Elham Taghizadeh, Alexandre Terrier, Fabio Becce, Alain Farron and Philippe Büchler*
 
-Shape Analysis of White Matter Tracts via the Laplace-Beltrami Spectrum
+Shape Analysis of White Matter Tracts via the Laplace-Beltrami Spectrum<br>
 *Lindsey Kitchell, Dan Bullock, Soichi Hayashis, Franco Pestilli*
 
-Uncertainty Quantification in CNN-Based Surface Prediction Using Shape Priors
+Uncertainty Quantification in CNN-Based Surface Prediction Using Shape Priors<br>
 *Katarina Tothova, Sarah Parisot, Matthew Lee, Esther Puyol Anton, Lisa Koch, Andrew King, Ender Konukoglu and Marc Pollefeys*
 
-Virtual 2D-3D Fracture Reduction with Bone Length Recovery Using Statistical Shape Models
+Virtual 2D-3D Fracture Reduction with Bone Length Recovery Using Statistical Shape Models<br>
 *Ondřej Klíma, Roman Madeja, Michal Španěl, Martin Čuta, Pavel Zemčík, Pavel Stoklásek and Aleš Mizera*
 
