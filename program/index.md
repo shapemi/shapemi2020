@@ -28,6 +28,8 @@ order: 2
         }
 </style>
 
+this version is up to date - please ignore the one in the MICCAI booklet
+
 # 20 September 2018, Thursday
 
 ### 08:30 – 09:30 Registration
