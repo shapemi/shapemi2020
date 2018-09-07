@@ -40,7 +40,7 @@ this version is up-to-date - please ignore the one in the MICCAI booklet
 
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
 | 10:25 - 10:45 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
-| 10:45 - 11:05 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris , Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
+| 10:45 - 11:05 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris, Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines}
 
 <br>
@@ -113,7 +113,7 @@ Combining deep learning and shape priors for bi-ventricular segmentation of volu
 *Jinming Duan, Jo Schlemper, Wenjia Bai, Timothy J W Dawes, Ghalib Bello, Carlo Biffi, Georgia Doumou, Antonio De Marvao, Declan P O’Regan and Daniel Rueckert*
 
 Deep Learning for Quality Control of Subcortical Brain 3D Shape Models<br>
-*Dimitry M Petrov, Boris Gutman, Egor Kuznetsov, Chris Ching, Kathryn Alpert, Artemis Zavaliangos-Petropulu , Dimitry Isaev, Jessica Turner,  Theo G.M. van Erp,  Lei Wang, Lianne Schmaal, Dick Veltman and Paul Thompson*
+*Dimitry M Petrov, Boris Gutman, Egor Kuznetsov, Chris Ching, Kathryn Alpert, Artemis Zavaliangos-Petropulu, Dimitry Isaev, Jessica Turner,  Theo G.M. van Erp,  Lei Wang, Lianne Schmaal, Dick Veltman and Paul Thompson*
 
 Discrimination of Volumetric Shapes using Orthogonal Tensor Decomposition<br>
 *Hayato Itoh and Atsushi Imiya*
@@ -128,7 +128,7 @@ Morphometric Sex Estimation from the Hip Bone by Means of the HIP 1.1 Software<b
 *Miroslav Králík, Ondřej Klíma, Petra Urbanová, Lenka Polcerová and Martin Čuta*
 
 OCT segmentation: Integrating open parametric contour model of the retinal layers and shape constraint to the Mumford-Shah functional<br>
-*Jinming Duan , Weicheng Xie, Ryan Wen Liu, Christopher Tench, Irene Gottlob, Frank Proudlock and Li Bai*
+*Jinming Duan, Weicheng Xie, Ryan Wen Liu, Christopher Tench, Irene Gottlob, Frank Proudlock and Li Bai*
 
 Organ-At-Risk Segmentation in Brain MRI using Model-Based Segmentation: Benefits of Deep Learning-Based Boundary Detectors<br>
 *Eliza Orasanu, Tom Brosch, Carri Glide-Hurst and Steffen Renisch*
