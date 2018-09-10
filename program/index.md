@@ -37,7 +37,7 @@ We are located in the Center-Press Room on Level 2
 ### 08:30 – 09:30 Registration
 ### 09:30 – 11:00 Satellite Events AM(I)
  
-| 09:30 - 09:45 | Opening  (10 min)|
+| 09:30 - 09:40 | Opening  (10 min)|
 {: .tablelines0}
 
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Applications/Validation/Software” Stanley Durleman</span>|
@@ -62,7 +62,7 @@ We are located in the Center-Press Room on Level 2
 
 <br>
 
-### 13:30 – 15:00 Lunch / Poster and Demo Session
+### 13:35 – 15:00 Lunch / Poster and Demo Session
 See list at the end of the program
 
 ### 15:00 – 16:30  Satellite Events PM(I)
