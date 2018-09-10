@@ -28,7 +28,7 @@ order: 2
         }
 </style>
 
-<font color=red>this version is up-to-date - please ignore the one in the MICCAI booklet</font>
+<span style="font-color:red">this version is up-to-date - please ignore the one in the MICCAI booklet</span>
 
 # 20 September 2018, Thursday
 We are located in the Center-Press Room on Level 2
