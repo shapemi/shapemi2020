@@ -28,9 +28,8 @@ order: 2
         }
 </style>
 
-<span style="color:red">this version is up-to-date - please ignore the one in the printed MICCAI booklet</span>
-
 # 20 September 2018, Thursday
+<span style="color:red">this version is up-to-date - please ignore the one in the printed MICCAI booklet</span>
 ### 08:30 – 09:30 Registration
 ### 09:30 – 11:00 Satellite Events AM(I)
  
