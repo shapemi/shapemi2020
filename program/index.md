@@ -80,7 +80,7 @@ See list at the end of the program
 | 17:40 - 18:00 | DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images <br> *Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker*|
 {: .tablelines2}
 
-| 18:00 - 19:00 | Discussion/Conclusions/Adjourn|
+| 18:00 - 19:00 | Discussion / Conclusions / Adjourn|
 {: .tablelines0}
 
 <br>
