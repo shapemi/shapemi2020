@@ -28,12 +28,9 @@ order: 2
         }
 </style>
 
-<span style="color:red">this version is up-to-date - please ignore the one in the MICCAI booklet</span>
+<span style="color:red">this version is up-to-date - please ignore the one in the printed MICCAI booklet</span>
 
 # 20 September 2018, Thursday
-We are located in the Center-Press Room on Level 2
-![Center-Press Room](../images/press-room.png "Center-Press Room")
-
 ### 08:30 – 09:30 Registration
 ### 09:30 – 11:00 Satellite Events AM(I)
  
