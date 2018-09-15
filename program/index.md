@@ -33,7 +33,7 @@ order: 2
 ### 08:30 – 09:30 Registration
 ### 09:30 – 11:00 Satellite Events AM(I)
  
-| 09:30 - 09:40 | Opening  (10 min)|
+| 09:30 - 09:40 | Opening  (10 min) |
 {: .tablelines0}
 
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Applications / Validation / Software” Stanley Durrleman</span>|
@@ -80,7 +80,7 @@ See list at the end of the program
 | 17:40 - 18:00 | DeepSSM: Deep Learning Framework for Statistical Shape Modeling from Raw Images <br> *Riddhish Bhalodia, Shireen Elhabian, Ladislav Kavan, Ross Whitaker*|
 {: .tablelines2}
 
-| 18:00 - 19:00 | Discussion / Conclusions / Adjourn|
+| 18:00 - 19:00 | Discussion / Conclusions / Adjourn |
 {: .tablelines0}
 
 <br>
