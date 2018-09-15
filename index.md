@@ -49,6 +49,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Miaomiao Zhang, Lehigh U
 - Orcun Goksel, ETH Zürich
 - Philippe Buechler, U Bern
+- Sailesh Cojeti, DZNE Bonn
 - Stefan Sommer, U Copenhagen
 - Steve Pizer, UNC
 - Tim Cootes, U Manchester
