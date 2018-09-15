@@ -33,7 +33,7 @@ order: 2
 ### 08:30 – 09:30 Registration
 ### 09:30 – 11:00 Satellite Events AM(I)
  
-| 09:30 - 09:40 | Opening  (10 min) |
+| 09:30 - 09:40 | Opening  (10 min)  <br> |
 {: .tablelines0}
 
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Applications / Validation / Software” Stanley Durrleman</span>|
