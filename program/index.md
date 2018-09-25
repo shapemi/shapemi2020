@@ -28,6 +28,9 @@ order: 2
         }
 </style>
 
+### Best Paper Award
+Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br> *Kris M. Campbell, P. Thomas Fletcher*
+
 # 20 September 2018, Thursday
 ### 08:30 – 09:30 Registration
 ### 09:30 – 11:00 Satellite Events AM(I)
