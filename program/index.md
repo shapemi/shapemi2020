@@ -30,7 +30,7 @@ order: 2
 
 ### Best Paper Award
 Nonparametric Aggregation of Geodesic Trends for Longitudinal Data Analysis <br> *Kris M. Campbell, P. Thomas Fletcher*<br><br>
-The best paper award is sponsored by [![Kitware](images/kitware.png)](https://www.kitware.com/)
+The best paper award is sponsored by [![Kitware](../images/kitware.png)](https://www.kitware.com/)
 
 # 20 September 2018, Thursday
 ### 08:30 – 09:30 Registration
