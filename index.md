@@ -45,7 +45,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Kilian Pohl, SRI International
 - Marc Niethammer, UNC
 - Martin Styner, UNC
-- Marius Lingurary, Children's National Medical Center
+- Marius Linguraru, Children's National Medical Center
 - Miaomiao Zhang, Lehigh U
 - Orcun Goksel, ETH Zürich
 - Philippe Buechler, U Bern
