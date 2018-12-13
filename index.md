@@ -1,6 +1,6 @@
 ![ShapeMI](images/LogoShapeMI.png "ShapeMI MICCAI 2018: Workshop on Shape in Medical Imaging")
 
-<a href="https://link.springer.com/book/10.1007/978-3-030-04747-4" target="_blank">>>Proceedings</a><br/>
+<a href="https://link.springer.com/book/10.1007/978-3-030-04747-4" target="_blank">>>Proceedings</a> (temporary free access in January 2019<br/>
 
 <a href="program/" target="_blank">>>Program</a><br/>
 <a href="keynotes/" target="_blank">>>Keynotes</a><br/>
