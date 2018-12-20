@@ -132,6 +132,7 @@ Morphometric Sex Estimation from the Hip Bone by Means of the HIP 1.1 Software<b
 
 OCT segmentation: Integrating open parametric contour model of the retinal layers and shape constraint to the Mumford-Shah functional<br>
 *Jinming Duan, Weicheng Xie, Ryan Wen Liu, Christopher Tench, Irene Gottlob, Frank Proudlock and Li Bai*
+[Slides](LongXie.pdf)
 
 Organ-At-Risk Segmentation in Brain MRI using Model-Based Segmentation: Benefits of Deep Learning-Based Boundary Detectors<br>
 *Eliza Orasanu, Tom Brosch, Carri Glide-Hurst and Steffen Renisch*
