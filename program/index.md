@@ -42,7 +42,8 @@ The best paper award is sponsored by [![Kitware](../images/kitware.png)](https:/
 {: .tablelines0}
 
 | 09:40 - 10:25 | <span style="font-weight:bold">Keynote for “Shape Applications / Validation / Software” Stanley Durrleman</span>|
-| 10:25 - 10:45 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*|
+| 10:25 - 10:45 | Deformetrica 4: an open-source software for statistical shape analysis <br> *Alexandre Bône, Maxime Louis, Benoit Martin, Stanley Durrleman*<br>
+[Paper](https://www.researchgate.net/publication/327652245_Deformetrica_4_an_open-source_software_for_statistical_shape_analysis), [Slides](AlexandreBone.pdf), [Software]( http://www.deformetrica.org)|
 | 10:45 - 11:05 | On the Evaluation and Validation of Off-the-shelf Statistical Shape Modeling Tools: A Clinical Application <br> *Anupama Goparaju, Ibolya Csécs, Alan Morris, Evgueni Kholmovski, Nassir Marrouche, Ross Whitaker, Shireen Elhabian*|
 {: .tablelines}
 
