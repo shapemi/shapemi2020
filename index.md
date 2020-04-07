@@ -74,4 +74,4 @@ Today’s image data usually represents 3D geometric structures, often describin
 # Best Paper Award
 
 TBD
-The best paper award is sponsored by [![the Special Interest Group in Shape Modeling and Analysis](images/SIG_logo.png)](http://miccai.org/special-interest-groups/shape-modeling-and-analysis/)
+The best paper award is sponsored by the [![Special Interest Group in Shape Modeling and Analysis](images/SIG_Logo.png)](http://miccai.org/special-interest-groups/shape-modeling-and-analysis/)
