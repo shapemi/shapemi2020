@@ -1,11 +1,5 @@
 ![ShapeMI](images/LogoShapeMI.png "ShapeMI MICCAI 2020: 2nd Workshop on Shape in Medical Imaging")
 
-<a href="https://link.springer.com/book/10.1007/978-3-030-04747-4" target="_blank">>>Proceedings</a><br/>
-
-<a href="program/" target="_blank">>>Program</a><br/>
-<a href="keynotes/" target="_blank">>>Keynotes</a><br/>
-<a href="location/" target="_blank">>>Location</a>
-
 <p align="justify"> We gladly announce the workshop on <span style="font-weight:bold">Shape</span> in <span style="font-weight:bold">M</span>edical <span style="font-weight:bold">I</span>maging (ShapeMI), which is held in conjunction with the conference on Medical Image Computing and Computer Assisted Interventions (<a href="http://www.miccai2020.org/en/" target="_blank">MICCAI 2020</a>) in Lima, Peru. The data is still TBD.  This workshop is the second instance of ShapeMI, after a successful <a href="https://sesami.github.io/shapemi2018/" target="_blank">ShapeMI'18</a>.
 
 The goal of this workshop continues being a venue for the presentation of the leading methods and applications for advanced shape analysis and geometric learning in medical imaging. It will provide a venue for researchers working in shape/geometric modeling, learning, analysis, statistics, classification and applications to share novel ideas, to present recent research results and to interact with each other.
@@ -75,3 +69,8 @@ Today’s image data usually represents 3D geometric structures, often describin
 
 TBD
 The best paper award is sponsored by the [Special Interest Group in Shape Modeling and Analysis](http://miccai.org/special-interest-groups/shape-modeling-and-analysis/)
+
+<p align="center">
+<a href="https://miccai2020.org" target="_blank"><img src="images/miccai-2020-logo.png"
+alt="23rd International Conference on Medical Image Computing and Computer Assisted Intervention MICCAI2020" width="240" height="180" border="10" /></a>
+</p>
