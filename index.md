@@ -33,7 +33,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - [Hervé Lombaert](https://profs.etsmtl.ca/hlombaert/), ETS Montreal, Canada & Inria Sophia-Antipolis, France
 - [Beatriz Paniagua](https://www.kitware.com/beatriz-paniagua/), Kitware Inc. and University of North Carolina at Chapel Hill, USA
 - [Orcun Goksel](http://people.ee.ethz.ch/~ogoksel/), ETH Zurich, Switzerland
-- [Islem Rekik](http://basira-lab.com/), Istanbul TÜ, Turkey
+- [Islem Rekik](http://basira-lab.com/), Istanbul Technical University, Turkey
 
 # Advisory Board / Program Committee
 - Aasa Feragen, DIKU
@@ -72,5 +72,5 @@ The best paper award is sponsored by the [Special Interest Group in Shape Modeli
 
 <p align="center">
 <a href="https://miccai2020.org" target="_blank"><img src="images/miccai-2020-logo.png"
-alt="23rd International Conference on Medical Image Computing and Computer Assisted Intervention MICCAI2020" width="240" height="180" border="10" /></a>
+alt="23rd International Conference on Medical Image Computing and Computer Assisted Intervention MICCAI2020" /></a>
 </p>
