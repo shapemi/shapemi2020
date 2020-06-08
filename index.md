@@ -36,35 +36,35 @@ Today’s image data usually represents 3D geometric structures, often describin
 - [Islem Rekik](http://basira-lab.com/), Istanbul Technical University, Turkey
 
 # Advisory Board / Program Committee
-- Aasa	Feragen	,	DIKU
-- Claudia	Lindner	,	U Manchester
-- Diana	Mateus	,	EC Nantes
-- Ellen	Gasparovic	,	Union College NY
-- Ipek	Oguz	,	Vanderbilt
-- James	Fishbaugh	,	New York University
-- Julia	Schnabel	,	King's College London
-- Kathryn	Leonard	,	OXI
-- Kilian	Pohl	,	SRI International
-- Marc	Niethammer	,	UNC
-- Martin	Styner	,	UNC
-- Miaomiao	Zhang	,	Lehigh University
-- Philippe	Buechler	,	University of Bern
-- Shireen	Elhabian	,	SCI Utah
-- Stanley	Durrleman	,	Inria & ICM
-- Stefan	Sommer	,	University of Copenhagen
-- Steve	Pizer	,	UNC
-- Thomas	Vetter	,	University of Basel
-- Tim	Cootes	,	Manchester University
-- Tinashe	Mutsvangwa	,	University of Cape Town
-- Umberto	Castellani	,	University of Verona
-- Xavier	Pennec	,	INRIA Sophia Antipolis
-- Yonggang	Shi	,	University of Southern California
-- Yoshinobu	Sato	,	NAIST
-- Guido	Gerig	,	NYU
-- Ross	Whitaker	,	University of Utah
-- Ender	Konukoglu	,	ETH Zurich
-- Marius	Linguraru	,	Sheikh Zayed Institute
-- Washington	Mio	,	Florida State University
+- Aasa	Feragen, DIKU
+- Claudia	Lindner, U Manchester
+- Diana	Mateus, EC Nantes
+- Ellen	Gasparovic, Union College NY
+- Ipek	Oguz, Vanderbilt
+- James	Fishbaugh, New York University
+- Julia	Schnabel, King's College London
+- Kathryn	Leonard, OXI
+- Kilian	Pohl, SRI International
+- Marc	Niethammer, UNC
+- Martin	Styner, UNC
+- Miaomiao	Zhang, Lehigh University
+- Philippe	Buechler, University of Bern
+- Shireen	Elhabian, SCI Utah
+- Stanley	Durrleman, Inria & ICM
+- Stefan	Sommer, University of Copenhagen
+- Steve	Pizer, UNC
+- Thomas	Vetter, University of Basel
+- Tim	Cootes, Manchester University
+- Tinashe	Mutsvangwa, University of Cape Town
+- Umberto	Castellani, University of Verona
+- Xavier	Pennec, INRIA Sophia Antipolis
+- Yonggang	Shi, University of Southern California
+- Yoshinobu	Sato, NAIST
+- Guido	Gerig, NYU
+- Ross	Whitaker, University of Utah
+- Ender	Konukoglu, ETH Zurich
+- Marius	Linguraru, Sheikh Zayed Institute
+- Washington	Mio, Florida State University
 
 # Best Paper Award
 
