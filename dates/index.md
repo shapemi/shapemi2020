@@ -8,8 +8,10 @@ order: 5
 
 | event | date |
 |---|:---:|
-| Paper submissions due | June 30th, 2020 |
-| Notification of paper decisions | July 21st, 2020 |
-| MICCAI early bird | August 17th, 2020 |
-| Camera ready papers due | July 31st, 2020 |
-| ShapeMI workshop | TBA, October 4th - October 8th, 2020  |
+| Full Paper Deadline: | June 30th, 2020; 11:59 PM PST |
+| Notification of Acceptance: | July 21st, 2020; 11:59 PM PST |
+| MICCAI early bird registration: | August 17th, 2020 |
+| Camera-ready version due: | July 31st, 2020; 11:59 PST |
+| Pre-recorded talks and summary slide due: | September 25th, 2020 |
+| Pre-recorded talks due: | September 28th, 2020 |
+| ShapeMI workshop date: | TBA, October 4th - October 8th, 2020  |
