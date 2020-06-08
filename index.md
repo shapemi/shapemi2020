@@ -36,38 +36,38 @@ Today’s image data usually represents 3D geometric structures, often describin
 - [Islem Rekik](http://basira-lab.com/), Istanbul Technical University, Turkey
 
 # Advisory Board / Program Committee
-- Aasa Feragen, DIKU
-- Claudia Lindner, U Manchester
-- Diana Mateus, EC Nantes
-- Ellen Gasparovic, Union College, NY
-- Ender Konukoglu, ETH Zürich
-- Guido Gerig, NYU
-- James Fishbaugh, NYU
-- Julia Schnabel, King’s College London
-- Julien Lefèvre, U Aix-Marseille
-- Kathryn Leonard, OXI
-- Kilian Pohl, SRI International
-- Marc Niethammer, UNC
-- Martin Styner, UNC
-- Marius Linguraru, Children’s National Medical Center
-- Miaomiao Zhang, UVA
-- Philippe Buechler, U Bern
-- Shireen Elhabian, SCI Utah
-- Stefan Sommer, U Copenhagen
-- Steve Pizer, UNC
-- Tim Cootes, U Manchester
-- Tinashe Mutsvangwa, U Cape Town
-- Thomas Vetter, U Basel
-- Umberto Castellani, U Verona
-- Washington Mio, FSU
-- Xavier Pennec, INRIA Sophia Antipolis
-- Yonggang Shi, USC
-- Yoshinobu Sato, NAIST
-
+- Aasa	Feragen	,	DIKU
+- Claudia	Lindner	,	U Manchester
+- Diana	Mateus	,	EC Nantes
+- Ellen	Gasparovic	,	Union College NY
+- Ipek	Oguz	,	Vanderbilt
+- James	Fishbaugh	,	New York University
+- Julia	Schnabel	,	King's College London
+- Kathryn	Leonard	,	OXI
+- Kilian	Pohl	,	SRI International
+- Marc	Niethammer	,	UNC
+- Martin	Styner	,	UNC
+- Miaomiao	Zhang	,	Lehigh University
+- Philippe	Buechler	,	University of Bern
+- Shireen	Elhabian	,	SCI Utah
+- Stanley	Durrleman	,	Inria & ICM
+- Stefan	Sommer	,	University of Copenhagen
+- Steve	Pizer	,	UNC
+- Thomas	Vetter	,	University of Basel
+- Tim	Cootes	,	Manchester University
+- Tinashe	Mutsvangwa	,	University of Cape Town
+- Umberto	Castellani	,	University of Verona
+- Xavier	Pennec	,	INRIA Sophia Antipolis
+- Yonggang	Shi	,	University of Southern California
+- Yoshinobu	Sato	,	NAIST
+- Guido	Gerig	,	NYU
+- Ross	Whitaker	,	University of Utah
+- Ender	Konukoglu	,	ETH Zurich
+- Marius	Linguraru	,	Sheikh Zayed Institute
+- Washington	Mio	,	Florida State University
 
 # Best Paper Award
 
-TBD
 The best paper award is sponsored by the [Special Interest Group in Shape Modeling and Analysis](http://miccai.org/special-interest-groups/shape-modeling-and-analysis/)
 
 <p align="center">
