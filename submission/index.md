@@ -6,7 +6,7 @@ order: 4
 ---
 # Paper and Demo Submission
 
-* **Papers**: We accept full papers (8-12 pages, single column, [LNCS style](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines), Latex package: [ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) ).
+* **Papers**: We accept full papers (8-12 pages, single column, [LNCS style](http://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines), [Latex package](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip), [Word package](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip) ).
 * **Software Demos**: During paper submissions, we have the option to apply for presenting an on-site software demo.
 * **Submission Website**: [https://cmt3.research.microsoft.com/SHAPEMI2020](https://cmt3.research.microsoft.com/SHAPEMI2020)
 * **Review**: The review is single-blind, submissions should include authors and affiliations. Reviewers will be chosen among experts in the medical image computing community.
