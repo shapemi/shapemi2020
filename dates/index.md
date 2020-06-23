@@ -8,7 +8,7 @@ order: 5
 
 | Event | Date |
 |---|:---:|
-| Full Paper Deadline: | June 30th, 2020; 11:59 PM PST ** !!! Extended: July 6, 2020, 11:59 PM PST !!! **|
+| Full Paper Deadline: | June 30th, 2020; 11:59 PM PST **!!! Extended: July 6, 2020, 11:59 PM PST !!!**|
 | Notification of Acceptance: | August 10th, 2020; 11:59 PM PST |
 | MICCAI early bird registration: | August 17th, 2020 |
 | Camera-ready version due: | August 21st, 2020; 11:59 PST |
