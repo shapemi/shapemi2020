@@ -65,6 +65,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Ender	Konukoglu, ETH Zurich
 - Marius	Linguraru, Sheikh Zayed Institute
 - Washington	Mio, Florida State University
+- Sungmin Hong (MGH/HMS)
 
 # Best Paper Award
 
