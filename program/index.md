@@ -7,6 +7,24 @@ order: 2
 
 # Program
 
+<html>
+<head>
+<style>
+table {
+  border: 10px solid black;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
+<body>
+
 <table>
 <thead style="border:10px solid black; background:gray">
 <tr>
@@ -197,3 +215,6 @@ order: 2
 </tr>
 </tbody>
 </table>
+
+</body>
+</html>
