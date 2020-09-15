@@ -11,11 +11,12 @@ order: 2
 <head>
 <style>
 table {
-  border: 10px solid black;
+  border: 6px solid black;
   width: 100%;
 }
 
 th, td {
+  border: 3px solid gray;
   text-align: left;
   padding: 8px;
 }
