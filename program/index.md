@@ -8,7 +8,7 @@ order: 2
 # Program
 
 <table>
-<thead style="border-top:10px solid black; background:gray">
+<thead style="border-top:10px black; background:gray">
 <tr>
 <th>Time UTC</th>
 <th>America (ET)</th>
@@ -18,7 +18,7 @@ order: 2
 <th>Title</th>
 </tr>
 </thead>
-<tbody style="border-top:10px solid black; background:white">
+<tbody style="border-top:10px black; background:white">
 <tr>
 <td>13:00</td>
 <td>9:00</td>
