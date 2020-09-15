@@ -52,7 +52,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>15:10</td>
 <td>21:10</td>
 <td>20</td>
-<td>Aasa Feragen Keynote + Questions</td>
+<td><b>Aasa Feragen Keynote + Questions</b></td>
 </tr>
 <tr>
 <td>13:30</td>
@@ -76,7 +76,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>15:44</td>
 <td>21:44</td>
 <td>7</td>
-<td><i>i-invariant Two-Sample Tests in Lie Groups for Shape Analysis</i></td>
+<td><i>Bi-invariant Two-Sample Tests in Lie Groups for Shape Analysis</i></td>
 </tr>
 <tr>
 <td>13:51</td>
@@ -108,7 +108,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>16:10</td>
 <td>22:10</td>
 <td>20</td>
-<td>Stefan Sommers Keynote + Questions</td>
+<td><b>Stefan Sommers Keynote + Questions</b></td>
 </tr>
 <tr>
 <td>14:30</td>
@@ -164,7 +164,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>17:20</td>
 <td>23:20</td>
 <td>20</td>
-<td>Ross Whitaker Keynote + Questions</td>
+<td><b>Ross Whitaker Keynote + Questions</b></td>
 </tr>
 <tr>
 <td>15:40</td>
