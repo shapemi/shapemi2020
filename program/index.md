@@ -8,6 +8,7 @@ order: 2
 # Program
 
  | Time UTC | America (ET) | Europe (CEST) | Asia (UTC+8) | Duration [min] | Title |
+ |-----------|-----------|-----------|-----------|-----------| |
  | 13:00 | 9:00 | 15:00 | 21:00 | 10 | Opening |
  | 13:10 | 9:10 | 15:10 | 21:10 | 20 | Keynote + Questions (Aasa) |
  | 13:30 | 9:30 | 15:30 | 21:30 | 7	| Uncertainty reduction in contour-based 3D/2D registration of bone surfaces |
@@ -29,4 +30,4 @@ order: 2
  | 15:54 | 11:54 | 17:54 | 23:54 | 7 | Patient Specific Classification of Dental Root Canal and Crown Shape |
  | 16:01 | 12:01 | 18:01 | 0:01 | 7 | Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints |
  | 16:08 | 12:08 | 18:08 | 0:08 | 2 | Buffer |
- | 16:10 | 12:10 | 18:10 | 0:10 | 10 | Closing | 
+ | 16:10 | 12:10 | 18:10 | 0:10 | 10 | Closing |
