@@ -31,3 +31,19 @@ order: 2
  | 16:01 | 12:01 | 18:01 | 0:01 | 7 | Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints |
  | 16:08 | 12:08 | 18:08 | 0:08 | 2 | Buffer |
  | 16:10 | 12:10 | 18:10 | 0:10 | 10 | Closing |
+
+
+ <table>
+ <thead>
+ <tr>
+ <th>foo</th>
+ <th>bar</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>baz</td>
+ <td>bim</td>
+ </tr>
+ </tbody>
+ </table>
