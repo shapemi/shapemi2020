@@ -121,7 +121,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>10:30</td>
 <td>16:30</td>
 <td>22:30</td>
-<td> </td>
+<td>30</td>
 <td><i> - A Method for Semantic Knee Bone and Cartilage Segmentation with Deep 3D Shape Fitting Using Data From the Osteoarthritis Initiative</i></td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>11:40</td>
 <td>17:40</td>
 <td>23:40</td>
-<td> </td>
+<td>30</td>
 <td><i> - Learning a statistical full spine model from partial observations</i></td>
 </tr>
 <tr>
