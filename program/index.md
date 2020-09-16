@@ -28,6 +28,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </head>
 <body>
 
+<h2>Opening</h2>
 <h2>First block 13:00 - 14:00 UTC</h2>
 
 <table>
@@ -42,14 +43,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>13:00</td>
-<td>9:00</td>
-<td>15:00</td>
-<td>21:00</td>
-<td>10</td>
-<td>Opening</td>
-</tr>
 <tr>
 <td>13:10</td>
 <td>9:10</td>
@@ -206,16 +199,10 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td><i> - Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints</i></td>
 </tr>
-<tr>
-<td>16:10</td>
-<td>12:10</td>
-<td>18:10</td>
-<td>0:10</td>
-<td>10</td>
-<td>Closing</td>
-</tr>
 </tbody>
 </table>
+
+<h2>Closing</h2>
 
 </body>
 </html>
