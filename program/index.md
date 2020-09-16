@@ -40,8 +40,9 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </html>
 
 # First block 13:00 - 14:00 UTC
-<body>
+
 <html>
+<body>
 
 <table>
 <tbody style="border:10px solid black; background:white">
@@ -101,9 +102,9 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 # Break
 
 # Second block 14:10 - 14:55 UTC
-<body>
-<html>
 
+<html>
+<body>
 <table>
 <tbody style="border:10px solid black; background:white">
 <tr>
@@ -156,8 +157,9 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 # Third block 15:20 - 16:10 UTC
 
-<body>
+
 <html>
+<body>
 
 <table>
 <tbody style="border:10px solid black; background:white">
