@@ -44,7 +44,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <h1>First block 13:00 - 14:00 UTC</h1>
 
 <table>
-<tbody style="border:10px solid black; background:white">
+<tbody>
 <tr>
 <td>13:00</td>
 <td>9:00</td>
@@ -66,7 +66,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>9:30</td>
 <td>15:30</td>
 <td>21:30</td>
-<td> </td>
+<td>30</td>
 <td><i> - Uncertainty reduction in contour-based 3D/2D registration of bone surfaces</i></td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <h1>Second block 14:10 - 14:55 UTC</h1>
 
 <table>
-<tbody style="border:10px solid black; background:white">
+<tbody>
 <tr>
 <td>14:10</td>
 <td>10:10</td>
@@ -129,7 +129,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td </td>
+<td> </td>
 <td> </td>
 <td><i> - Interpretation of Brain Morphology in Association to Alzheimer’s Disease Dementia Classification Using Graph Convolutional Networks on Triangulated Meshes</i></td>
 </tr>
@@ -148,7 +148,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <h1>Third block 15:20 - 16:10 UTC</h1>
 
 <table>
-<tbody style="border:10px solid black; background:white">
+<tbody>
 <tr>
 <td>15:20</td>
 <td>11:20</td>
