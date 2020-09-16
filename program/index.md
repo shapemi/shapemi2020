@@ -19,7 +19,7 @@ th, td {
   padding: 8px;
 }
 
-div {
+span {
   background-color: #f2f2f2;
 }
 
@@ -96,7 +96,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </tbody>
 </table>
 
-<div><h1>Break</h1></div>
+<span><h1>Break</h1></span>
 <h1>Second block 14:10 - 14:55 UTC</h1>
 
 <table>
@@ -144,7 +144,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </tbody>
 </table>
 
-<div><h1>Break</h1></div>
+<span><h1>Break</h1></span>
 <h1>Third block 15:20 - 16:10 UTC</h1>
 
 <table>
