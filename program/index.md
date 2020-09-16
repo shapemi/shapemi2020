@@ -28,6 +28,8 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </head>
 <body>
 
+<h1>First block 13:00 - 14:00 UTC</h1>
+
 <table>
 <thead style="border:10px solid black; background:gray">
 <tr>
@@ -39,11 +41,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <th>Title</th>
 </tr>
 </thead>
-</table>
-
-<h1>First block 13:00 - 14:00 UTC</h1>
-
-<table>
 <tbody>
 <tr>
 <td>13:00</td>
@@ -100,6 +97,16 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <h1>Second block 14:10 - 14:55 UTC</h1>
 
 <table>
+<thead style="border:10px solid black; background:gray">
+<tr>
+<th>Time UTC</th>
+<th>America (ET)</th>
+<th>Europe (CEST)</th>
+<th>Asia (UTC+8)</th>
+<th>Duration [min]</th>
+<th>Title</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td>14:10</td>
@@ -148,6 +155,16 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <h1>Third block 15:20 - 16:10 UTC</h1>
 
 <table>
+<thead style="border:10px solid black; background:gray">
+<tr>
+<th>Time UTC</th>
+<th>America (ET)</th>
+<th>Europe (CEST)</th>
+<th>Asia (UTC+8)</th>
+<th>Duration [min]</th>
+<th>Title</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td>15:20</td>
