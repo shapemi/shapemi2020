@@ -36,13 +36,8 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </tr>
 </thead>
 </table>
-</body>
-</html>
 
-# First block 13:00 - 14:00 UTC
-
-<html>
-<body>
+<h1>First block 13:00 - 14:00 UTC</h1>
 
 <table>
 <tbody style="border:10px solid black; background:white">
@@ -94,17 +89,12 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>7</td>
 <td><i>Composition of Transformations in the Registration of Sets of Points or Oriented Points</i></td>
 </tr>
-<tbody>
+</tbody>
 </table>
-</body>
-</html>
 
-# Break
+<h1>Break</h1>
+<h1>Second block 14:10 - 14:55 UTC</h1>
 
-# Second block 14:10 - 14:55 UTC
-
-<html>
-<body>
 <table>
 <tbody style="border:10px solid black; background:white">
 <tr>
@@ -147,19 +137,11 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>7</td>
 <td><i>Uncertain-DeepSSM: From Images to Probabilistic Shape Models</i></td>
 </tr>
-</table>
 </tbody>
+</table>
 
-</body>
-</html>
-
-# Break
-
-# Third block 15:20 - 16:10 UTC
-
-
-<html>
-<body>
+<h1>Break</h1>
+<h1>Third block 15:20 - 16:10 UTC</h1>
 
 <table>
 <tbody style="border:10px solid black; background:white">
