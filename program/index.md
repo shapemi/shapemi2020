@@ -11,12 +11,10 @@ order: 2
 <head>
 <style>
 table {
-  border: 6px solid black;
   width: 100%;
 }
 
 th, td {
-  border: 3px solid gray;
   text-align: left;
   padding: 8px;
 }
@@ -37,6 +35,11 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <th>Title</th>
 </tr>
 </thead>
+</table>
+
+# First block 13:00 - 14:00 UTC
+
+<table>
 <tbody style="border:10px solid black; background:white">
 <tr>
 <td>13:00</td>
@@ -86,22 +89,14 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>7</td>
 <td><i>Composition of Transformations in the Registration of Sets of Points or Oriented Points</i></td>
 </tr>
-<tr>
-<td>13:58</td>
-<td>9:58</td>
-<td>15:58</td>
-<td>21:58</td>
-<td>2</td>
-<td>Buffer</td>
-</tr>
-<tr>
-<td>14:00</td>
-<td>10:00</td>
-<td>16:00</td>
-<td>22:00</td>
-<td>10</td>
-<td>Break</td>
-</tr>
+<tbody>
+</table>
+
+# Break
+
+# Second block 14:10 - 14:55 UTC
+<table>
+<tbody style="border:10px solid black; background:white">
 <tr>
 <td>14:10</td>
 <td>10:10</td>
@@ -142,22 +137,15 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>7</td>
 <td><i>Uncertain-DeepSSM: From Images to Probabilistic Shape Models</i></td>
 </tr>
-<tr>
-<td>14:58</td>
-<td>10:58</td>
-<td>16:58</td>
-<td>22:58</td>
-<td>2</td>
-<td>Buffer</td>
-</tr>
-<tr>
-<td>15:00</td>
-<td>11:00</td>
-<td>17:00</td>
-<td>23:00</td>
-<td>20</td>
-<td>Break</td>
-</tr>
+</table>
+</tbody>
+
+# Break
+
+# Third block 15:20 - 16:10 UTC
+
+<table>
+<tbody style="border:10px solid black; background:white">
 <tr>
 <td>15:20</td>
 <td>11:20</td>
@@ -197,14 +185,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>0:01</td>
 <td>7</td>
 <td><i>Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints</i></td>
-</tr>
-<tr>
-<td>16:08</td>
-<td>12:08</td>
-<td>18:08</td>
-<td>0:08</td>
-<td>2</td>
-<td>Buffer</td>
 </tr>
 <tr>
 <td>16:10</td>
