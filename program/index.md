@@ -5,7 +5,7 @@ permalink: /program/
 order: 2
 ---
 
-# Program
+# Program of live workshop Oct. 4th
 
 <html>
 <head>
@@ -28,8 +28,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </head>
 <body>
 
-<h2>Opening 13:10 - 13:10 UTC</h2>
-<h2>First block 13:10 - 14:00 UTC</h2>
+<h2>Start 13:00 UTC</h2>
 
 <table>
 <thead style="border:10px solid black; background:gray">
@@ -44,12 +43,20 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </thead>
 <tbody>
 <tr>
+<td>13:00</td>
+<td>9:00</td>
+<td>15:00</td>
+<td>21:00</td>
+<td>10</td>
+<td><b>Opening</b></td>
+</tr>
+<tr>
 <td>13:10</td>
 <td>9:10</td>
 <td>15:10</td>
 <td>21:10</td>
 <td>20</td>
-<td><b>Aasa Feragen Keynote + Questions</b></td>
+<td><b>Aasa Feragen Live Keynote Overview + Questions</b></td>
 </tr>
 <tr>
 <td>13:30</td>
@@ -57,6 +64,14 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>15:30</td>
 <td>21:30</td>
 <td>30</td>
+<td><b>Live Short Presentations + Questions:</b></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td><i> - Uncertainty reduction in contour-based 3D/2D registration of bone surfaces</i></td>
 </tr>
 <tr>
@@ -87,7 +102,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </table>
 
 <span><h2>Break 14:00 - 14:10 UTC</h2></span>
-<h2>Second block 14:10 - 14:55 UTC</h2>
 
 <table>
 <thead style="border:10px solid black; background:gray">
@@ -107,7 +121,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>16:10</td>
 <td>22:10</td>
 <td>20</td>
-<td><b>Stefan Sommer Keynote + Questions</b></td>
+<td><b>Stefan Sommer Live Keynote Overview + Questions</b></td>
 </tr>
 <tr>
 <td>14:30</td>
@@ -115,6 +129,14 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>16:30</td>
 <td>22:30</td>
 <td>30</td>
+<td><b>Live Short Presentations + Questions:</b></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td><i> - A Method for Semantic Knee Bone and Cartilage Segmentation with Deep 3D Shape Fitting Using Data From the Osteoarthritis Initiative</i></td>
 </tr>
 <tr>
@@ -145,7 +167,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </table>
 
 <span><h2>Break 15:00 - 15:20 UTC</h2></span>
-<h2>Third block 15:20 - 16:10 UTC</h2>
 
 <table>
 <thead style="border:10px solid black; background:gray">
@@ -165,7 +186,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>17:20</td>
 <td>23:20</td>
 <td>20</td>
-<td><b>Ross Whitaker Keynote + Questions</b></td>
+<td><b>Ross Whitaker Live Keynote Overview + Questions</b></td>
 </tr>
 <tr>
 <td>15:40</td>
@@ -173,6 +194,14 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>17:40</td>
 <td>23:40</td>
 <td>30</td>
+<td><b>Live Short Presentations + Questions</b></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td><i> - Learning a statistical full spine model from partial observations</i></td>
 </tr>
 <tr>
@@ -199,10 +228,16 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td><i> - Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints</i></td>
 </tr>
+<tr>
+<td>16:10</td>
+<td>12:10</td>
+<td>18:10</td>
+<td>00:10</td>
+<td>10</td>
+<td><b>Closing</b></td>
+</tr>
 </tbody>
 </table>
-
-<h2>Closing 16:10 - 16:20 UTC</h2>
 
 </body>
 </html>
