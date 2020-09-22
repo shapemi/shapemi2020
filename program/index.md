@@ -107,7 +107,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>16:10</td>
 <td>22:10</td>
 <td>20</td>
-<td><b>Stefan Sommers Keynote + Questions</b></td>
+<td><b>Stefan Sommer Keynote + Questions</b></td>
 </tr>
 <tr>
 <td>14:30</td>
