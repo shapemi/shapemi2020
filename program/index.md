@@ -56,7 +56,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>15:10</td>
 <td>21:10</td>
 <td>20</td>
-<td><b>Keynote: Aasa Feragen "Uncertainty quantification in non-Euclidean domains"</b></td>
+<td><b>Keynote: Aasa Feragen "Uncertainty quantification in non-Euclidean domains"</b> <a href="https://shapemi.github.io/keynotes/" target="_blank">(more info.)</a></td>
 </tr>
 <tr>
 <td>13:30</td>
@@ -121,7 +121,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>16:10</td>
 <td>22:10</td>
 <td>20</td>
-<td><b>Keynote: Stefan Sommer "Stochastic Shape analysis and Probabilistic Geometric Statistics"</b></td>
+<td><b>Keynote: Stefan Sommer "Stochastic Shape analysis and Probabilistic Geometric Statistics"</b> <a href="https://shapemi.github.io/keynotes/" target="_blank">(more info.)</a></td>
 </tr>
 <tr>
 <td>14:30</td>
