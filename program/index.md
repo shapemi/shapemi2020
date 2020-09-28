@@ -233,8 +233,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>18:10</td>
 <td>00:10</td>
 <td>10</td>
-<td><b>Closing</b></td>
-<td><b>Best paper award by Guido Gerig, president of the <a href="http://www.miccai.org/special-interest-groups/shape-modeling-and-analysis/" target="_blank">ShapeSIG</a></b></td>
+<td><b>Closing and Best paper award by Guido Gerig, president of the <a href="http://www.miccai.org/special-interest-groups/shape-modeling-and-analysis/" target="_blank">ShapeSIG</a></b></td>
 </tr>
 </tbody>
 </table>
