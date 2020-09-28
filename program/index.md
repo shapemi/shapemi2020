@@ -232,8 +232,10 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>12:10</td>
 <td>18:10</td>
 <td>00:10</td>
-<td>10</td>
+<td>15</td>
 <td><b>Closing and Best paper award by Guido Gerig, president of the <a href="http://www.miccai.org/special-interest-groups/shape-modeling-and-analysis/" target="_blank">ShapeSIG</a></b></td>
 </tr>
 </tbody>
 </table>
+
+<h2>End 16:30 UTC</h2>
