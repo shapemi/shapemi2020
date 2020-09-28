@@ -97,9 +97,10 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td><i> - Uncertain-DeepSSM: From Images to Probabilistic Shape Models</i></td>
 </tr>
+</tbody>
 </table>
 
-<span><h2>Break 14:00 - 14:10 UTC</h2></span>
+<h2>Break 14:00 - 14:10 UTC</h2>
 
 <table>
 <thead style="border:10px solid black; background:gray">
@@ -164,7 +165,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </tbody>
 </table>
 
-<span><h2>Break 15:00 - 15:20 UTC</h2></span>
+<h2>Break 15:00 - 15:20 UTC</h2>
 
 <table>
 <thead style="border:10px solid black; background:gray">
