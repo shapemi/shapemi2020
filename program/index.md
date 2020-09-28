@@ -7,8 +7,6 @@ order: 2
 
 # Program of live workshop Oct. 4th
 
-<html>
-<body>
 
 <head>
 <style>
@@ -238,6 +236,3 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </tr>
 </tbody>
 </table>
-
-</body>
-</html>
