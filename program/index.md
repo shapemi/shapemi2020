@@ -8,6 +8,8 @@ order: 2
 # Program of live workshop Oct. 4th
 
 <html>
+<body>
+
 <head>
 <style>
 table {
@@ -26,7 +28,6 @@ span {
 tr:nth-child(even) {background-color: #f2f2f2;}
 </style>
 </head>
-<body>
 
 <h2>Start 13:00 UTC</h2>
 
