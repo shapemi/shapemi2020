@@ -40,19 +40,24 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Claudia	Lindner, U Manchester
 - Diana	Mateus, EC Nantes
 - Ellen	Gasparovic, Union College NY
+- Ender	Konukoglu, ETH Zurich
+- Guido	Gerig, NYU
 - Ipek	Oguz, Vanderbilt
 - James	Fishbaugh, New York University
 - Julia	Schnabel, King's College London
 - Kathryn	Leonard, OXI
 - Kilian	Pohl, SRI International
 - Marc	Niethammer, UNC
+- Marius	Linguraru, Sheikh Zayed Institute
 - Martin	Styner, UNC
 - Miaomiao	Zhang, Lehigh University
 - Philippe	Buechler, University of Bern
+- Ross	Whitaker, University of Utah
 - Shireen	Elhabian, SCI Utah
 - Stanley	Durrleman, Inria & ICM
 - Stefan	Sommer, University of Copenhagen
 - Steve	Pizer, UNC
+- Sungmin Hong (MGH/HMS)
 - Thomas	Vetter, University of Basel
 - Tim	Cootes, Manchester University
 - Tinashe	Mutsvangwa, University of Cape Town
@@ -60,12 +65,7 @@ Today’s image data usually represents 3D geometric structures, often describin
 - Xavier	Pennec, INRIA Sophia Antipolis
 - Yonggang	Shi, University of Southern California
 - Yoshinobu	Sato, NAIST
-- Guido	Gerig, NYU
-- Ross	Whitaker, University of Utah
-- Ender	Konukoglu, ETH Zurich
-- Marius	Linguraru, Sheikh Zayed Institute
 - Washington	Mio, Florida State University
-- Sungmin Hong (MGH/HMS)
 
 # Best Paper Award
 
