@@ -63,7 +63,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>15:30</td>
 <td>21:30</td>
 <td>30</td>
-<td><b>Block 1: Shape Learning (Short presentations + questions)</b></td>
+<td><b>Block 1: Shape Methods (Short presentations + questions)</b></td>
 </tr>
 <tr>
 <td> </td>
@@ -71,7 +71,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - A Method for Semantic Knee Bone and Cartilage Segmentation with Deep 3D Shape Fitting Using Data From the Osteoarthritis Initiative</i></td>
+<td><i>Uncertainty reduction in contour-based 3D/2D registration of bone surfaces</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -79,7 +79,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - D-Net: Siamese based Network for Arbitrarily Oriented Volume Alignment</i></td>
+<td><i>Learning Shape Priors from Pieces</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -87,7 +87,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Interpretation of Brain Morphology in Association to Alzheimer’s Disease Dementia Classification Using Graph Convolutional Networks on Triangulated Meshes</i></td>
+<td><i>Bi-invariant Two-Sample Tests in Lie Groups for Shape Analysis</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -95,7 +95,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Uncertain-DeepSSM: From Images to Probabilistic Shape Models</i></td>
+<td><i>Composition of Transformations in the Registration of Sets of Points or Oriented Points</i></td>
 </tr>
 </tbody>
 </table>
@@ -128,7 +128,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td>16:30</td>
 <td>22:30</td>
 <td>30</td>
-<td><b>Block 2: Shape Methods (Short presentations + questions)</b></td>
+<td><b>Block 2: Shape Learning (Short presentations + questions)</b></td>
 </tr>
 <tr>
 <td> </td>
@@ -136,7 +136,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Uncertainty reduction in contour-based 3D/2D registration of bone surfaces</i></td>
+<td><i>A Method for Semantic Knee Bone and Cartilage Segmentation with Deep 3D Shape Fitting Using Data From the Osteoarthritis Initiative</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -144,7 +144,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Learning Shape Priors from Pieces</i></td>
+<td><i>D-Net: Siamese based Network for Arbitrarily Oriented Volume Alignment</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -152,7 +152,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Bi-invariant Two-Sample Tests in Lie Groups for Shape Analysis</i></td>
+<td><i>Interpretation of Brain Morphology in Association to Alzheimer’s Disease Dementia Classification Using Graph Convolutional Networks on Triangulated Meshes</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -160,7 +160,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Composition of Transformations in the Registration of Sets of Points or Oriented Points</i></td>
+<td><i>Uncertain-DeepSSM: From Images to Probabilistic Shape Models</i></td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +201,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Learning a statistical full spine model from partial observations</i></td>
+<td><i>Learning a statistical full spine model from partial observations</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -209,7 +209,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Individual Vertebrae Classification using Shape</i></td>
+<td><i>Individual Vertebrae Classification using Shape</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -217,7 +217,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Patient Specific Classification of Dental Root Canal and Crown Shape</i></td>
+<td><i>Patient Specific Classification of Dental Root Canal and Crown Shape</i></td>
 </tr>
 <tr>
 <td> </td>
@@ -225,7 +225,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 <td> </td>
 <td> </td>
 <td> </td>
-<td><i> - Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints</i></td>
+<td><i>Combined Estimation of Shape and Pose for Statistical Analysis of Articulating Joints</i></td>
 </tr>
 <tr>
 <td>16:10</td>
